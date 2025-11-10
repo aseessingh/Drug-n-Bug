@@ -1,0 +1,17 @@
+2025-06-09 20:11:21.624980: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Traceback (most recent call last):
+  File "/rds/general/user/as13324/home/metadrugs2/Working Directory/Network/CPU/pos_model_3.py", line 180, in <module>
+    train_preds = model.predict(train_inputs, batch_size=64)
+  File "/rds/general/user/as13324/home/miniforge3/envs/networkanalysis/lib/python3.10/site-packages/keras/src/utils/traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/rds/general/user/as13324/home/metadrugs2/Working Directory/Network/CPU/pos_model_3.py", line 129, in stack_outputs
+    return tf.stack(x, axis=1)
+NameError: Exception encountered when calling Lambda.call().
+
+[1mname 'tf' is not defined[0m
+
+Arguments received by Lambda.call():
+  • inputs=['tf.Tensor(shape=(64, 64), dtype=float32)', 'tf.Tensor(shape=(64, 64), dtype=float32)', 'tf.Tensor(shape=(64, 64), dtype=float32)']
+  • mask=['None', 'None', 'None']
+  • training=False

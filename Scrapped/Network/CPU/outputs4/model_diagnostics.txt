@@ -1,0 +1,23 @@
+WAIC:
+Computed from 4000 posterior samples and 305 observations log-likelihood matrix.
+
+          Estimate       SE
+elpd_waic  -193.56    12.80
+p_waic       72.46        -
+
+There has been a warning during the calculation. Please check the results.
+
+LOO:
+Computed from 4000 posterior samples and 305 observations log-likelihood matrix.
+
+         Estimate       SE
+elpd_loo  -194.35    12.74
+p_loo       73.25        -
+------
+
+Pareto k diagnostic values:
+                         Count   Pct.
+(-Inf, 0.70]   (good)      305  100.0%
+   (0.70, 1]   (bad)         0    0.0%
+   (1, Inf)   (very bad)    0    0.0%
+

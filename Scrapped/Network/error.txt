@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/rds/general/user/as13324/home/metadrugs2/Working Directory/Network/multimodal_model_script.py", line 34, in <module>
+    x1_cols = df.columns[8].tolist()         
+AttributeError: 'str' object has no attribute 'tolist'

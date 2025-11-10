@@ -1,0 +1,54 @@
+Loading required package: Matrix
+Loaded glmnet 4.1-8
+Loading required package: ggplot2
+Loading required package: lattice
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘tidyr’
+
+The following objects are masked from ‘package:Matrix’:
+
+    expand, pack, unpack
+
+Rows: 436 Columns: 1349
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr    (1): SampleID
+dbl (1348): AGE, GENDERMale, GENDERFemale, CENTER_CDanemark, CENTER_CFrance,...
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 31 Columns: 19
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): input, output, mediator
+dbl (16): acme, acme_ci_lower, acme_ci_upper, ade, ade_ci_lower, ade_ci_uppe...
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 436 Columns: 346
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr   (1): SampleID
+dbl (345): AGE, GENDERMale, GENDERFemale, CENTER_CDanemark, CENTER_CFrance, ...
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 73 Columns: 19
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr  (3): input, output, mediator
+dbl (16): acme, acme_ci_lower, acme_ci_upper, ade, ade_ci_lower, ade_ci_uppe...
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.

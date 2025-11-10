@@ -1,0 +1,53 @@
+metabolite,Beta_Dose,Beta_Serum,Beta_HbA1c,ontology
+1-methyl-4-imidazoleacetate,0,0.215010671,0,Microbe
+1-methylhistamine,0,0.13463251,0,Host
+"1,5-anhydroglucitol (1,5-AG)",0,0,-1.552025547,Diet
+2-aminoadipate,0,0.145641152,0,Diet
+2-hydroxyarachidate*,0,0.245965294,0,Chemical-host co-metabolite
+2-hydroxynervonate*,0,0.134422868,0,Diet & Host & microbe
+2-isopropylmalate,0,1.040587038,0,Host-chemical co-metabolites
+2-keto-3-deoxy-gluconate,0,0,0.948335941,Host-microbe co-metabolite
+3-aminoisobutyrate,0,0,-0.612654677,Host & diet
+5-methylthioadenosine (MTA),0,0.070717514,0,Host
+arachidonoylcholine,0,0,-0.937306602,Host
+"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*",0,0.162914859,0,Host
+caprate (10:0),0,0.227101662,0,Chemical
+caprylate (8:0),0,0.42284322,0,Host
+carnitine,0,0,-1.501773916,Chemical
+deoxycarnitine,0,0,-1.352524934,Host-diet co-metabolite
+dihomo-linolenoyl-choline,0,0,-0.676353061,Host
+docosahexaenoylcholine,0,0,-0.822545109,Host & diet
+dodecanedioate (C12-DC),0,0.206317955,0,Host & diet
+ergothioneine,0,0.311222913,0,Host
+Fibrinopeptide A*,0,0,0.712904149,Host
+fructosyllysine,0,0,0.725465727,Diet & Host
+gamma-glutamyltyrosine,0,0.095023098,0,Microbe & diet
+gluconate,0,0,0.73893744,Host-microbe co-metaboltite
+glucose,0,0,2.277724479,Host & diet
+glucuronate,0,0.144422491,0,Host & Diet & microbe
+glutamine_degradant*,0,0,-0.380956764,Host-microbe co-metabolite
+glutarate (C5-DC),0,0.310467242,0,Host-microbe co-metabolite
+glycochenodeoxycholate,0,1.017423366,0,Diet
+glycoursodeoxycholate,0,1.499254444,0,Host-diet co-metabolite
+linoleoylcholine*,0,0,-0.714092502,Microbe
+maltose,0,0,0.294942071,Host
+mannonate*,0,0,0.926479179,Host & Diet & microbe
+mannose,0,0,1.289874385,Host & Diet & microbe
+myo-inositol,0,0.085026061,0,Host
+N-acetylputrescine,0,0.075684192,0,Host & diet & microbe
+"N,N,N-trimethyl-alanylproline betaine (TMAP)",0,0.14066011,0,Host & diet
+O-sulfo-L-tyrosine,0,0,-1.300402239,Host
+oleoylcholine,0,0,-0.865745611,Host-diet & host-microbe co-metabolite
+palmitoloelycholine,0,0,-0.512572004,Diet
+palmitoyl-linoleoyl-glycerol (16:0/18:2) [2]*,0,0,0.365722878,Diet
+palmitoylcholine,0,0,-0.924552363,Host
+phenyllactate (PLA),0,0.130376175,0,Diet
+prolylglycine,0,0.607766085,0,Host
+pyrraline,0,0.226156332,0,Host-diet co-metabolite
+sphingomyelin (d18:2/24:2)*,0,-0.059655937,0,Unknown
+stearoylcholine*,0,0,-0.933841483,Unknown
+taurodeoxycholic acid 3-sulfate,0,0.482185277,0,Unknown
+tauroursodeoxycholate,0,1.59577281,0,Unknown
+tauroursodeoxycholic acid sulfate (1),0,0.337777066,0,Unknown
+X-11315,0,0,-0.547449319,Unknown
+X-12740,0,0.9214534,0,Unknown

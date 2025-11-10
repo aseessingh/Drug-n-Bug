@@ -1,0 +1,20 @@
+2025-06-06 12:53:27.805321: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Traceback (most recent call last):
+  File "/rds/general/user/as13324/home/metadrugs2/Working Directory/Network/CPU/Cluster/cluster_based.py", line 67, in <module>
+    cluster_scaled = scaler.fit_transform(cluster_features.loc[valid_idx])
+  File "/rds/general/user/as13324/home/miniforge3/envs/networkanalysis/lib/python3.10/site-packages/sklearn/utils/_set_output.py", line 319, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "/rds/general/user/as13324/home/miniforge3/envs/networkanalysis/lib/python3.10/site-packages/sklearn/base.py", line 918, in fit_transform
+    return self.fit(X, **fit_params).transform(X)
+  File "/rds/general/user/as13324/home/miniforge3/envs/networkanalysis/lib/python3.10/site-packages/sklearn/preprocessing/_data.py", line 894, in fit
+    return self.partial_fit(X, y, sample_weight)
+  File "/rds/general/user/as13324/home/miniforge3/envs/networkanalysis/lib/python3.10/site-packages/sklearn/base.py", line 1389, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "/rds/general/user/as13324/home/miniforge3/envs/networkanalysis/lib/python3.10/site-packages/sklearn/preprocessing/_data.py", line 930, in partial_fit
+    X = validate_data(
+  File "/rds/general/user/as13324/home/miniforge3/envs/networkanalysis/lib/python3.10/site-packages/sklearn/utils/validation.py", line 2944, in validate_data
+    out = check_array(X, input_name="X", **check_params)
+  File "/rds/general/user/as13324/home/miniforge3/envs/networkanalysis/lib/python3.10/site-packages/sklearn/utils/validation.py", line 1130, in check_array
+    raise ValueError(
+ValueError: Found array with 0 sample(s) (shape=(0, 242)) while a minimum of 1 is required by StandardScaler.

@@ -1,0 +1,385 @@
+Name,Effect Size of HbA1c,Effect Size of Serum Metformin,SUB_PATHWAY,SMILES,INCHIKEY,CHEMICAL_NAME,PLOT_NAME,CAS,HMDB,KEGG,xlogP3
+adenosine,NA,0.069340546,"Purine Metabolism, Adenine containing",NC1=NC=NC2=C1N=CN2[C@@]3([H])[C@@](O)([H])[C@@](O)([H])[C@](CO)([H])O3,OIRDTQYFTABQOQ-KQYNXXCUBX,adenosine,adenosine,58-61-7,HMDB0000050,C00212,-1.98
+alanine,NA,0.40938392,Alanine and Aspartate Metabolism,O=C(O)[C@@H](N)C,QNAYBMKLOCPYGJ-REOHCLBHBS,alanine,alanine,56-41-7,HMDB0000161,C00041,-0.5818
+alpha.hydroxyisocaproate,0.202795406,NA,"Leucine, Isoleucine and Valine Metabolism",OC(C(CC(C)C)O)=O,LVRFTAZAXQPQHI-YFKPBYRVBW,alpha-hydroxyisocaproate,alpha-hydroxyisocaproate,10303-64-7,"HMDB0000665,HMDB00746,HMDB0000624",C03264,0.478
+alpha.hydroxyisovalerate,0.235432599,NA,"Leucine, Isoleucine and Valine Metabolism",OC(C(O)=O)C(C)C,NGEWQZIDQIYUNV-UHFFFAOYAS,alpha-hydroxyisovalerate,alpha-hydroxyisovalerate,600-37-3,HMDB0000407,NA,0.0879
+alpha.ketobutyrate,0.334601592,NA,"Methionine, Cysteine, SAM and Taurine Metabolism",OC(C(CC)=O)=O,TYEYBOSBBBHJIV-REWHXWOFAN,alpha-ketobutyrate,alpha-ketobutyrate,600-18-0,HMDB0000005,C00109,0.0501
+alpha.ketoglutarate,0.343230545,NA,TCA Cycle,O=C(C(O)=O)CCC(O)=O,KPGXRSRHYNQIFN-UHFFFAOYAN,alpha-ketoglutarate,alpha-ketoglutarate,"328-50-7,22202-68-2,305-72-6",HMDB0000208,C00026,-0.4951
+arabinose,0.193015611,NA,Pentose Metabolism,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,PYMYPHUHKUWMLA-WDCZJNDABW,arabinose,arabinose,28697-53-2,HMDB0029942,C00216,-2.5823
+arachidonoylcholine,-0.581844037,NA,Fatty Acid Metabolism (Acyl Choline),O=C(CCC/[C-]=C/C/C=C/C/C=C/C/C=C/CCCCC)OCC[N+](C)(C)C,NA,arachidonoylcholine,arachidonoylcholine,NA,HMDB0240583,NA,6.18469
+argininate.,0.283472965,NA,Urea cycle; Arginine and Proline Metabolism,N=C(N)NCCC[C@H](O)C(O)=O,BMFMQGXDDJALKQ-BYPYZUCNBB,argininate*,argininate*,157-07-3,HMDB0003148,NA,-1.30483
+arginine,-0.173184819,-0.395963417,Urea cycle; Arginine and Proline Metabolism,N=C(N)NCCCC(N)C(O)=O,ODKSFYDXXFIFQN-UHFFFAOYAT,arginine,arginine,1119-34-2,HMDB0000517,C00062,-1.33843
+ascorbic.acid.3.sulfate.,NA,0.130534798,Ascorbate and Aldarate Metabolism,O=C1O[C@@]([C@@H](O)CO)([H])C(OS(=O)(O)=O)=C1O,FBFZPSQPKNIVMT-ZAFYKAAXBA,ascorbic acid 3-sulfate*,ascorbic acid 3-sulfate*,NA,NA,NA,-2.146
+aspartate,0.192249892,NA,Alanine and Aspartate Metabolism,NC(C(O)=O)CC(O)=O,CKLJMWTZIZZHCS-REOHCLBHBW,aspartate,aspartate,56-84-8,HMDB0000191,C00049,-1.127
+benzoate,NA,0.159685137,Benzoate Metabolism,OC(C1=CC=CC=C1)=O,WPYMKLBDIGXBTP-UHFFFAOYAD,benzoate,benzoate,65-85-0,HMDB0001870,C00180,1.3848
+beta.citrylglutamate,NA,0.256595864,Glutamate Metabolism,OC(CC(C(NC(CCC(O)=O)C(O)=O)=O)(CC(O)=O)O)=O,GAQNUGISBQJMKO-UHFFFAOYAK,beta-citrylglutamate,beta-citrylglutamate,73590-26-8,NA,C20775,-1.8989
+beta.hydroxyisovalerate,0.258212025,NA,"Leucine, Isoleucine and Valine Metabolism",CC(C)(O)CC(O)=O,4000,beta-hydroxyisovalerate,beta-hydroxyisovalerate,625-08-1,HMDB0000754,NA,0.232
+bilirubin..Z.Z.,-0.272922524,NA,Hemoglobin and Porphyrin Metabolism,CC(C(N\1)=O)=C(C=C)C1=C/C2=C(C)C(CCC(O)=O)=C(CC3=C(CCC(O)=O)C(C)=C(/C=C4NC(C(C=C)=C/4C)=O)N3)N2,BPYKTIZUTYGOLE-IFADSCNNBS,"bilirubin (Z,Z)",bilirubin,635-65-4,HMDB0000054,C00486,4.53124
+bilirubin.degradation.product..C16H18N2O5..1...,NA,-0.116151418,Partially Characterized Molecules,NA,NA,"bilirubin degradation product, C16H18N2O5 (1)**","bilirubin degradation product, C16H18N2O5 (1)**",NA,NA,NA,
+bilirubin.degradation.product..C16H18N2O5..2...,NA,-0.095214342,Partially Characterized Molecules,NA,NA,"bilirubin degradation product, C16H18N2O5 (2)**","bilirubin degradation product, C16H18N2O5 (2)**",NA,NA,NA,
+bilirubin.degradation.product..C16H18N2O5..3...,NA,-0.122602612,Partially Characterized Molecules,NA,NA,"bilirubin degradation product, C16H18N2O5 (3)**","bilirubin degradation product, C16H18N2O5 (3)**",NA,NA,NA,
+bilirubin.degradation.product..C16H18N2O5..4...,NA,-0.120825858,Partially Characterized Molecules,NA,NA,"bilirubin degradation product, C16H18N2O5 (4)**","bilirubin degradation product, C16H18N2O5 (4)**",NA,NA,NA,
+bilirubin.degradation.product..C17H20N2O5..1...,NA,-0.063916876,Partially Characterized Molecules,NA,NA,"bilirubin degradation product, C17H20N2O5 (1)**","bilirubin degradation product, C17H20N2O5 (1)**",NA,NA,NA,
+branched.chain..straight.chain..or.cyclopropyl.10.1.fatty.acid..1..,NA,-0.278425385,Partially Characterized Molecules,CC(C)CCCC/C=C/C(O)=O,NA,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*","branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*",NA,NA,NA,2.8436
+butyrylcarnitine..C4.,0.231322008,NA,Fatty Acid Metabolism (also BCAA Metabolism),CCCC(O[C@H](CC([O-])=O)C[N+](C)(C)C)=O,QWYFHHGCZUCMBN-SECBINFHBA,butyrylcarnitine (C4),butyrylcarnitine (C4),25576-40-3,HMDB0002013,C02862,-0.4555
+caffeic.acid.sulfate,NA,0.226101867,Food Component/Plant,OS(OC1=CC=C(C=C1O)/C=C/C(O)=O)(=O)=O,SNVAIAITQIIEMQ-DUXPYHPUBQ,caffeic acid sulfate,caffeic acid sulfate,NA,HMDB0041708,NA,0.6716
+caproate..6.0.,NA,0.156482871,Medium Chain Fatty Acid,CCCCCC(O)=O,FUZZWVXGSFPDMH-UHFFFAOYAY,caproate (6:0),caproate (6:0),142-62-1,HMDB0000535,C01585,1.6513
+chenodeoxycholate,0.162361106,NA,Primary Bile Acid Metabolism,C[C@]12CC[C@]3([H])[C@@]4(C)CC[C@@H](O)C[C@@]4([H])C[C@@H](O)[C@@]3([H])[C@]1([H])CC[C@@]2(C(CCC(O)=O)C)[H],NA,chenodeoxycholate,chenodeoxycholate,"474-25-9,474-24-9",HMDB0000518,C02528,4.4779
+chenodeoxycholic.acid.sulfate..1.,0.325009295,NA,Primary Bile Acid Metabolism,O[C@H]1[C@]2([H])[C@@](CC[C@@]3(C)[C@@]2([H])CC[C@]3([H])[C@H](C)CCC(O)=O)([H])[C@@]4(C)CC[C@@H](OS(=O)(O)=O)C[C@@]4([H])C1,NA,chenodeoxycholic acid sulfate (1),chenodeoxycholic acid sulfate (1),NA,HMDB0002522,NA,4.305
+chiro.inositol,NA,-0.067783463,Inositol Metabolism,O[C@@H]1[C@@H](O)[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1O,CDAISMWEOUEBRE-LKPKBOIGBG,chiro-inositol,chiro-inositol,643-12-9,HMDB0240209,C19891,-3.8346
+cholate,NA,-0.188007086,Primary Bile Acid Metabolism,O[C@H]1[C@@]2([H])[C@]3([H])CC[C@H]([C@H](C)CCC(O)=O)[C@@]3(C)[C@@H](O)C[C@]2([H])[C@@]4(C)CC[C@@H](O)CC4C1,BHQCQFFYRZLCQQ-OELDTZBJBZ,cholate,cholate,81-25-4,HMDB0000619,C00695,3.4487
+cholic.acid.glucuronide,NA,-0.280251983,Primary Bile Acid Metabolism,O[C@H]1[C@@]2([H])[C@]3([H])CC[C@H]([C@H](C)CCC(O)=O)[C@@]3(C)[C@@H](O)C[C@]2([H])[C@@]4(C)CC[C@@H](OC5C(O)C(O)C(O)C(C(O)=O)O5)CC4C1,NA,cholic acid glucuronide,cholic acid glucuronide,NA,HMDB0002577,NA,1.3652
+choline,NA,0.068327291,Phospholipid Metabolism,[O-]CC[N+](C)(C)C,CRBHXDCYXIISFC-UHFFFAOYAW,choline,choline,67-48-1,HMDB0000097,C00114,-0.9471
+choline.phosphate,-0.209805151,NA,Phospholipid Metabolism,C[N+](C)(CCOP(O)([O-])=O)C,YHHSONZFOIEMCP-UHFFFAOYAD,choline phosphate,phosphocholine,72556-74-2,HMDB0001565,C00588,-0.8301
+cinnamoylglycine,-0.383602385,NA,Food Component/Plant,O=C(NCC(O)=O)/C=C/C1=CC=CC=C1,YAADMLWHGMUGQL-VOTSOKGWBK,cinnamoylglycine,cinnamoylglycine,16534-24-0,HMDB0011621,NA,0.9006
+citrulline,NA,-0.459528256,Urea cycle; Arginine and Proline Metabolism,NC(C(O)=O)CCCNC(N)=O,RHGKLRLOHDJJDR-UHFFFAOYAQ,citrulline,citrulline,372-75-8,HMDB0000904,C00327,-1.1532
+cortolone.glucuronide..1.,0.36326618,NA,Corticosteroids,O[C@H]([C@]([C@]([C@]1([H])[C@@](CC2)([H])[C@@]3([H])[C@]([C@@]2([H])C[C@@H]4OC5C(O)C(O)C(O)C(C(O)=O)O5)(CC4)C)(CC3=O)C)(CC1)O)CO,NA,cortolone glucuronide (1),cortolone glucuronide (1),NA,NA,NA,-0.4302
+cysteine.glutathione.disulfide,-0.229946749,NA,Glutathione Metabolism,NC(C(O)=O)CCC(NC(CSSCC(N)C(O)=O)C(NCC(O)=O)=O)=O,BNRXZEPOHPEEAS-UHFFFAOYAL,cysteine-glutathione disulfide,cysteine-glutathione disulfide,13081-14-6,HMDB0000656,R00900,-2.3426
+cysteine.s.sulfate,0.218860261,NA,"Methionine, Cysteine, SAM and Taurine Metabolism",N[C@H](C(O)=O)CSS(O)(=O)=O,NOKPBJYHPHHWAN-REOHCLBHBK,cysteine s-sulfate,cysteine s-sulfate,1637-71-4,HMDB0000731,C05824,-1.0657
+cysteine.sulfinic.acid,0.176351055,NA,"Methionine, Cysteine, SAM and Taurine Metabolism",O=C(C(CS(O)=O)N)O,ADVPTQAUNPRNPO-UHFFFAOYAU,cysteine sulfinic acid,cysteine sulfinic acid,207121-48-0,HMDB0000996,C00606,-1.38
+deoxycholate,0.311098681,0.315270666,Secondary Bile Acid Metabolism,CC12[C@@]([C@]3([H])CC[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])C[C@@H]2O)([H])CC[C@]1([H])[C@]([H])(C)CCC(O)=O,KXGVEGMKQFWNSR-LLQZFEROBK,deoxycholate,deoxycholate,83-44-3,HMDB0000626,C04483,4.4779
+deoxycholic.acid.12.sulfate.,0.370442795,NA,Secondary Bile Acid Metabolism,O[C@H]1C[C@]2([H])[C@]([C@@]3([H])C[C@H](OS(O)(=O)=O)[C@@]4(C)[C@](CC[C@@]4([C@H](C)CCC(O)=O)[H])([H])[C@]3([H])CC2)(C)CC1,NA,deoxycholic acid 12-sulfate*,deoxycholic acid 12-sulfate*,NA,NA,NA,4.305
+dexpanthenol,NA,-0.104091685,Chemical,OCC(C)(C)C(O)C(NCCCO)=O,SNPLKNRPJHDVJA-UHFFFAOYAQ,dexpanthenol,dexpanthenol,16485-10-2,HMDB0004231,D03726,-1.1356
+diacylglycerol..16.1.18.2..2...16.0.18.3..1...,NA,0.278238947,Diacylglycerol,CCCCCC/C=C/CCCCCCCC(OCC(OC(CCCCCCC/C=C/C/C=C/CCCCC)=O)CO)=O,NA,"diacylglycerol (16:1/18:2 [2], 16:0/18:3 [1])*","diacylglycerol (16:1/18:2 [2], 16:0/18:3 [1])*",NA,NA,NA,10.5045
+diglycerol,NA,0.134019865,Chemical,OCC(COCC(CO)O)O,GPLRAVKSCUXZTP-UHFFFAOYAD,diglycerol,diglycerol,627-82-7,NA,NA,-2.2906
+dihomo.linolenoyl.choline,-0.540184315,-0.349558574,Fatty Acid Metabolism (Acyl Choline),O=C(CCCCCC/C=[C-]/C/C=C/C/C=C/CCCCC)OCC[N+](C)(C)C,NA,dihomo-linolenoyl-choline,dihomo-linolenoyl-choline,NA,HMDB0240646,NA,6.40869
+dihydroferulate,NA,0.121064848,Food Component/Plant,O=C(CCC1=CC=C(O)C(OC)=C1)O,BOLQJTPHPSDZHR-UHFFFAOYAM,dihydroferulate,dihydroferulate,1135-23-5,HMDB0062121,NA,1.418
+dihydroferulic.acid.sulfate,0.170619711,0.236976341,Food Component/Plant,COC1=C(OS(=O)(O)=O)C=CC(CCC(O)=O)=C1,UMCDODPBPQMWQP-UHFFFAOYAJ,dihydroferulic acid sulfate,dihydroferulic acid sulfate,NA,HMDB0041724,NA,0.894
+dimethyl.sulfone,0.159721719,NA,Chemical,CS(C)(=O)=O,HHVIBTZHLRERCL-UHFFFAOYAG,dimethyl sulfone,dimethyl sulfone,67-71-0,HMDB0004983,C11142,-0.3392
+dimethylarginine..SDMA...ADMA.,-0.164596073,NA,Urea cycle; Arginine and Proline Metabolism,N[C@@H](CCCNC(N(C)C)=N)C(O)=O,YDGMGEXADBMOMJ-LURJTMIEBT,dimethylarginine (SDMA + ADMA),dimethylarginine (ADMA + SDMA),102783-24-4,"HMDB0003334,HMDB0001539","C21189,C03626",-0.73553
+dimethylguanidino.valeric.acid..DMGV..,NA,0.37819897,Urea cycle; Arginine and Proline Metabolism,O=C(O)C(CCCNC(N(C)C)=N)=O,NA,dimethylguanidino valeric acid (DMGV)*,dimethylguanidino valeric acid (DMGV)*,NA,NA,NA,-0.49373
+docosahexaenoylcholine,-0.592759024,NA,Fatty Acid Metabolism (Acyl Choline),O=C(CC/C=[C-]/C/C=C/C/C=C/C/C=C/C/C=C/C/C=C/CC)OCC[N+](C)(C)C,NA,docosahexaenoylcholine,docosahexaenoylcholine,NA,HMDB0240647,NA,6.51689
+docosapentaenoylcarnitine..C22.5n3..,NA,-0.091468083,"Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)",O=C(OC(CC([O-])=O)C[N+](C)(C)C)CCCCC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CC,NA,docosapentaenoylcarnitine (C22:5n3)*,docosapentaenoylcarnitine (C22:5n3)*,NA,NA,NA,5.4463
+dopamine.4.sulfate,NA,0.220033678,Tyrosine Metabolism,O=S(OC1=CC=C(CCN)C=C1O)(O)=O,DEKNNWJXAQTLFA-UHFFFAOYAD,dopamine 4-sulfate,dopamine 4-sulfate,NA,HMDB0004148,C13691,0.075
+eicosapentaenoylcholine,-0.540791388,NA,Fatty Acid Metabolism (Acyl Choline),O=C(CCC/[C-]=C/C/C=C/C/C=C/C/C=C/C/C=C/CC)OCC[N+](C)(C)C,NA,eicosapentaenoylcholine,eicosapentaenoylcholine,NA,NA,NA,5.96069
+eicosenedioate..C20.1.DC..,NA,-0.120166335,"Fatty Acid, Dicarboxylate",OC(CCCCCCCCC/C=C\CCCCCCCC(O)=O)=O,NA,eicosenedioate (C20:1-DC)*,eicosenedioate (C20:1-DC)*,NA,NA,NA,5.9534
+eicosenoylcarnitine..C20.1..,-0.203845883,NA,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)",O=C(OC(CC([O-])=O)C[N+](C)(C)C)CCCCCCCCC/C=C/CCCCCCCC,NA,eicosenoylcarnitine (C20:1)*,eicosenoylcarnitine (C20:1)*,NA,NA,NA,5.5621
+enterolactone.sulfate,-0.214068752,NA,Food Component/Plant,O=C([C@@]1(CC2=CC(OS(=O)(O)=O)=CC=C2)[H])OC[C@@]1(CC3=CC(O)=CC=C3)[H],NA,enterolactone sulfate,enterolactone sulfate,NA,"HMDB0240506,HMDB0240505",NA,2.1482
+erythronate.,0.335329037,0.358922105,Aminosugar Metabolism,OC[C@@H](O)[C@@H](O)C(O)=O,JPIJQSOTBSSVTP-PWNYCUMCBA,erythronate*,erythronate*,88759-55-1,HMDB0000613,NA,-2.2149
+ethyl.beta.glucopyranoside,-0.270568649,NA,Food Component/Plant,O[C@H]([C@H]1O)[C@@H]([C@@H](CO)O[C@H]1OCC)O,WYUFTYLVLQZQNH-JAJWTYFOBO,ethyl beta-glucopyranoside,ethyl beta-glucopyranoside,NA,HMDB0029968,NA,-2.1772
+ethyl.glucuronide,NA,-0.095981166,Chemical,O[C@H]([C@H]1O)[C@@H]([C@@H]([C@](O)=O)OC1OCC)O,IWJBVMJWSPZNJH-XWBUKDKVBJ,ethyl glucuronide,ethyl glucuronide,17685-04-0,HMDB0010325,NA,-2.0849
+ferulic.acid.4.sulfate,0.151759475,NA,Food Component/Plant,COC1=C(OS(O)(=O)=O)C=CC(/C=C/C(O)=O)=C1,PZPATWACAAOHTJ-HWKANZROBD,ferulic acid 4-sulfate,ferulic acid 4-sulfate,86321-29-1,HMDB0029200,NA,0.9746
+Fibrinopeptide.A.,0.455545044,NA,Fibrinogen Cleavage Peptide,O=C(NC(CC(C)C)C(NC(C)C(NC(CCC(O)=O)C(NCC(NCC(NCC(NC(C(C)C)C(NC(CCCNC(N)=N)C(O)=O)=O)=O)=O)=O)=O)=O)=O)C(CC1=CC=CC=C1)NC(C(CC(O)=O)NC(CNC(C(CCC(O)=O)NC(CNC(C(CO)NC(C(CC(O)=O)NC(C(C)N)=O)=O)=O)=O)=O)=O)=O,JWICNZAGYSIBAR-UHFFFAOYAQ,Fibrinopeptide A*,ADSGEGDFXAEGGGVR*,25422-31-5,NA,NA,-10.25353
+fructose,0.420377252,NA,"Fructose, Mannose and Galactose Metabolism",OC[C@@]1(O)O[C@H](CO)[C@@H](O)[C@@H]1O,BJHIKXHVCXFQLS-UYFOZJQFBH,fructose,fructose,57-48-7,HMDB0000660,C00095,-3.2198
+fructosyllysine,0.54799488,NA,Lysine Metabolism,OC[C@@H](O)[C@@H](O)[C@H](O)C(CNCCCC[C@@H](N)C(O)=O)=O,BFSYFTQDGRDJNV-QCNRFFRDBO,fructosyllysine,fructosyllysine,21291-40-7,HMDB0034879,NA,-3.1977
+fumarate,NA,0.136462125,TCA Cycle,OC(/C=C/C(O)=O)=O,VZCYOOQTPOCHFL-OWOJBTEDBF,fumarate,fumarate,100-17-8,HMDB0000134,C00122,-0.2882
+gamma.CEHC,-0.156132587,NA,Tocopherol Metabolism,OC1=C(C)C(C)=C(OC(C)(CCC(O)=O)CC2)C2=C1,VMJQLPNCUPGMNQ-UHFFFAOYAS,gamma-CEHC,gamma-CEHC,178167-75-4,HMDB0001931,NA,2.95754
+gamma.glutamylcitrulline.,NA,-0.460989494,Gamma-glutamyl Amino Acid,NC(C(O)=O)CCC(NC(CCCNC(N)=O)C(O)=O)=O,NA,gamma-glutamylcitrulline*,gamma-glutamylcitrulline*,NA,NA,NA,-1.8036
+gamma.glutamylglutamine,-0.236334696,NA,Gamma-glutamyl Amino Acid,O=C(N)CC[C@@H](C(O)=O)NC(CC[C@@H](C(O)=O)N)=O,JBFYFLXEJFQWMU-WDSKDSINBP,gamma-glutamylglutamine,gamma-glutamylglutamine,10148-81-9,HMDB0011738,C05283,-1.9866
+gamma.glutamylisoleucine.,0.430027245,NA,Gamma-glutamyl Amino Acid,CCC(C)[C@@H](C(O)=O)NC(CC[C@@H](C(O)=O)N)=O,SNCKGJWJABDZHI-SIPWABPFBP,gamma-glutamylisoleucine*,gamma-glutamylisoleucine*,NA,HMDB0011170,NA,-0.206
+gamma.glutamylleucine,0.373365414,NA,Gamma-glutamyl Amino Acid,CC(C)C[C@@H](C(O)=O)NC(CC[C@@H](C(O)=O)N)=O,MYFMARDICOWMQP-YUMQZZPRBM,gamma-glutamylleucine,gamma-glutamylleucine,2566-39-4,HMDB0011171,NA,-0.206
+gamma.glutamylvaline,0.343385339,NA,Gamma-glutamyl Amino Acid,O=C(N[C@H]([C@@](O)=O)C(C)C)CC[C@@H]([C@](O)=O)N,SITLTJHOQZFJGG-UUEFVBAFBQ,gamma-glutamylvaline,gamma-glutamylvaline,2746-34-1,HMDB0011172,NA,-0.5961
+GlcNAc.sulfate.conjugate.of.C21H34O2.steroid..,0.159561229,NA,Partially Characterized Molecules,NA,NA,GlcNAc sulfate conjugate of C21H34O2 steroid**,GlcNAc sulfate conjugate of C21H34O2 steroid**,NA,NA,NA,
+gluconate,0.442561752,NA,Food Component/Plant,OC([C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO)=O,RGHNJXZEOKUKBD-SQOUGZDYBY,gluconate,gluconate,527-07-1,HMDB0000625,C00257,-3.4931
+glucose,0.742055735,NA,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O,WQZGKKKJIJFFOK-DVKNGEFBBQ,glucose,glucose,50-99-7,HMDB0000122,C00031,-3.2214
+glucuronide.of.C10H18O2..7..,0.170332458,NA,Partially Characterized Molecules,NA,NA,glucuronide of C10H18O2 (7)*,glucuronide of C10H18O2 (7)*,NA,NA,NA,
+glutamate,0.442977526,NA,Glutamate Metabolism,O=C(O)[C@@H](N)CCC(O)=O,WHUUTDBJXJRKMK-UHFFFAOYAD,glutamate,glutamate,56-86-0,HMDB0000148,"C00025,C00217",-0.7369
+glutamine,-0.226189066,NA,Glutamate Metabolism,OC([C@@H](N)CCC(N)=O)=O,ZDXPYRJPNDTMRX-VKHMYHEABV,glutamine,glutamine,56-85-9,HMDB0000641,C00064,-1.3362
+glutamine.conjugate.of.C6H10O2..1..,NA,0.173507096,Partially Characterized Molecules,NA,NA,glutamine conjugate of C6H10O2 (1)*,glutamine conjugate of C6H10O2 (1)*,NA,NA,NA,
+glutamine.conjugate.of.C6H10O2..2..,NA,0.17226362,Partially Characterized Molecules,NA,NA,glutamine conjugate of C6H10O2 (2)*,glutamine conjugate of C6H10O2 (2)*,NA,NA,NA,
+glutamine_degradant.,-0.235058736,NA,Partially Characterized Molecules,O=C(CCC1N)NC1=O,NPWMTBZSRRLQNJ-UHFFFAOYAH,glutamine_degradant*,glutamine_degradant*,2353-44-8,NA,NA,-1.2497
+glutarate..C5.DC.,0.185896065,NA,"Fatty Acid, Dicarboxylate",OC(CCCC(O)=O)=O,JFCQEDHGNNZCLN-NUQVWONBAE,glutarate (C5-DC),glutarate (C5-DC),110-94-1,HMDB0000661,C00489,0.3259
+glutarylcarnitine..C5.DC.,-0.185036866,NA,Lysine Metabolism,[O-]C(CC(C[N+](C)(C)C)OC(CCCC(O)=O)=O)=O,NXJAXUYOQLTISD-UHFFFAOYAA,glutarylcarnitine (C5-DC),glutarylcarnitine (C5-DC),102636-82-8,HMDB0013130,NA,-1.0007
+glycerate,-0.255352509,NA,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",O=C(O)C(O)CO,RBNPOMFGQQGHHO-UHFFFAOYAE,glycerate,glycerate,600-19-1,"HMDB0000139,HMDB0006372",C00258,-1.5758
+glycerol.3.phosphate,-0.209491636,NA,Glycerolipid Metabolism,O=P(O)(OCC(CO)O)O,AWUCVROLDVIAJX-UHFFFAOYAM,glycerol 3-phosphate,glycerol 3-phosphate,29849-82-9,HMDB0000126,C0093,-1.5511
+glycochenodeoxycholate.glucuronide..1.,0.282569428,NA,Primary Bile Acid Metabolism,O[C@H]1[C@@]2([C@@]([H])([C@]3(CC[C@H](C[C@]3(C1)[H])O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(O)=O)O)O)O)C)CC[C@]5([C@]2(CC[C@@H]5[C@@H](CCC(NCC(O)=O)=O)C)[H])C)[H],NA,glycochenodeoxycholate glucuronide (1),glycochenodeoxycholate glucuronide (1),NA,HMDB0002579,NA,1.5106
+glycocholate,0.185223383,NA,Primary Bile Acid Metabolism,O=C(CNC(CC[C@H]([C@@H]1[C@@]2(C)[C@@H](O)C[C@]3([H])[C@@]4(C)CC[C@@H](O)C[C@@]4([H])C[C@@H](O)[C@@]3([H])[C@]2([H])CC1)C)=O)O,RFDAIACWWDREDC-FRVQLJSFBG,glycocholate,glycocholate,"475-31-0,863-57-0",HMDB0000138,C01921,2.5649
+glycocholenate.sulfate.,0.153892865,NA,Secondary Bile Acid Metabolism,O=S(OC1CCC2(C)C(CCC3C2CCC4(C)C3CCC4C(CCC(NCC(O)=O)=O)C)=C1)(O)=O,NA,glycocholenate sulfate*,glycocholenate sulfate*,NA,NA,NA,4.3705
+glycolithocholate,NA,0.16008248,Secondary Bile Acid Metabolism,O[C@@H](C[C@]1(CC[C@]([C@@]([H])2CC3)([H])[C@](CC[C@@]2(C)[C@]3([H])[C@@H](CCC(NCC(O)=O)=O)C)4[H])[H])CC[C@@]14C,XBSQTYHEGZTYJE-OETIFKLTBJ,glycolithocholate,glycolithocholate,474-74-8,HMDB00698,C15557,4.6233
+glycosyl.ceramide..d18.1.23.1..d17.1.24.1..,-0.291606547,-0.210344514,Hexosylceramides (HCER),CCCCCCCCCCCCC/C=C/C(O)C(NC(CCCCCCCCC/C=C/CCCCCCCCCCC)=O)COC1OC(CO)C(O)C(O)C1O,NA,"glycosyl ceramide (d18:1/23:1, d17:1/24:1)*","glycosyl ceramide (d18:1/23:1, d17:1/24:1)*",NA,NA,NA,9.8939
+glycosyl.ceramide..d18.2.24.1..d18.1.24.2..,-0.409849825,-0.427746446,Hexosylceramides (HCER),OC(/C=C/CCCCCCCC/C=C\CCC)C(COC1C(O)C(O)C(O)C(CO)O1)NC(CCCCCCCCCCCCC/C=C\CCCCCCCC)=O,NA,"glycosyl ceramide (d18:2/24:1, d18:1/24:2)*","glycosyl ceramide (d18:2/24:1, d18:1/24:2)*",NA,NA,NA,10.06
+glycosyl.N.behenoyl.sphingadienine..d18.2.22.0..,-0.4144392,NA,Hexosylceramides (HCER),[H][C@](NC(CCCCCCCCCCCCCCCCCCCCC)=O)(CO[C@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@@H](CO)O1)[C@@](O)([H])/C=C/CCCCCCCC/C=C\CCC,NA,glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*,glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*,NA,NA,NA,9.5038
+glycosyl.N.stearoyl.sphingosine..d18.1.18.0.,-0.252955979,NA,Hexosylceramides (HCER),OC1C(CO)OC(OC[C@H](NC(CCCCCCCCCCCCCCCCC)=O)[C@H](O)/C=C/CCCCCCCCCCCCC)C(O)C1O,NA,glycosyl-N-stearoyl-sphingosine (d18:1/18:0),glycosyl-N-stearoyl-sphingosine (d18:1/18:0),NA,NA,NA,8.1674
+glycosyl.N.tricosanoyl.sphingadienine..d18.2.23.0..,NA,-0.3199577,Hexosylceramides (HCER),[H][C@](NC(CCCCCCCCCCCCCCCCCCCCCC)=O)(CO[C@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@@H](CO)O1)[C@@](O)([H])/C=C/CCCCCCCC/C=C\CCC,NA,glycosyl-N-tricosanoyl-sphingadienine (d18:2/23:0)*,glycosyl-N-tricosanoyl-sphingadienine (d18:2/23:0)*,NA,NA,NA,9.8939
+gulonate.,NA,0.122089047,Ascorbate and Aldarate Metabolism,OC([C@H](O)[C@H](O)[C@H](O)[C@@H](O)CO)=O,RGHNJXZEOKUKBD-NRXMZTRTBF,gulonate*,gulonate*,20246-53-1,HMDB0003290,C00800,-3.4931
+hexanoylglycine,-0.215215454,NA,Fatty Acid Metabolism (Acyl Glycine),O=C(O)CNC(CCCCC)=O,UPCKIPHSXMXJOX-UHFFFAOYAU,hexanoylglycine,hexanoylglycine (C6),24003-67-6,HMDB0000701,NA,0.7675
+histidine.betaine..hercynine..,NA,-0.174230559,Food Component/Plant,C[N+](C)(C(C([O-])=O)CC1=CN=CN1)C,GPPYTCRVKHULJH-UHFFFAOYAG,histidine betaine (hercynine)*,histidine betaine (hercynine)*,534-30-5,HMDB0029422,NA,-1.2231
+homocitrulline,NA,0.28054384,Urea cycle; Arginine and Proline Metabolism,N[C@H](C(O)=O)CCCCNC(N)=O,XIGSAGMEBXLVJJ-YFKPBYRVBI,homocitrulline,homocitrulline,1190-49-4,HMDB0000679,C02427,-0.7631
+homostachydrine.,-0.19091206,NA,Food Component/Plant,C[N+]1(C)[C@@H](CCCC1)[C@]([O-])=O,XULZWQRXYTVUTE-ZETCQYMHBF,homostachydrine*,homostachydrine*,1195-94-4,HMDB0033433,C08283,-0.6348
+HWESASXX.,NA,0.083222183,Polypeptide,O=C(NC(CC(C)C)C(O)=O)C(CC(C)C)NC([C@H](CO)NC([C@H](C)NC([C@H](CO)NC([C@@H](CCC(O)=O)NC([C@@H](CC1=CNC2=C1C=CC=C2)NC([C@@H](CC3=CNC=N3)N)=O)=O)=O)=O)=O)=O,KUZSCKDYVGVVKC-PLNQFBRDBE,HWESASXX*,HWESASXX*,NA,NA,NA,-2.5568
+hyocholate,NA,-0.219647809,Secondary Bile Acid Metabolism,C[C@]12CC[C@@H](O)C[C@@]1([H])[C@@H](O)[C@@H](O)C3C2CC[C@@]4(C)C3CCC4C(CCC(O)=O)C,DKPMWHFRUGMUKF-OAEKOJLIBK,hyocholate,hyocholate,547-75-1,HMDB0000760,C17649,3.4487
+imidazole.lactate,-0.258045435,NA,Histidine Metabolism,OC(C(O)=O)CC1=CN=CN1,ACZFBYCNAVEFLC-YFKPBYRVBI,imidazole lactate,imidazole lactate,14403-45-3,HMDB0002320,C05568,-0.6023
+imidazole.propionate,0.284294541,NA,Histidine Metabolism,OC(CCC1=CN=CN1)=O,ZCKYOWGFRHAZIQ-UHFFFAOYAI,imidazole propionate,imidazole propionate,1074-59-5,HMDB0002271,NA,0.4269
+indolebutyrate,NA,-0.166612549,Tryptophan Metabolism,OC(CCCC1=CNC2=C1C=CC=C2)=O,JTEDVYBZBROSJT-UHFFFAOYAT,indolebutyrate,indolebutyrate,133-32-4,HMDB0002096,C11284,2.5752
+indolepropionylglycine,NA,-0.315869526,Tryptophan Metabolism,O=C(NCC(O)=O)CCC1=CNC2=C1C=CC=C2,NA,indolepropionylglycine,indolepropionylglycine,NA,NA,NA,1.3013
+isoleucine,0.494592513,NA,"Leucine, Isoleucine and Valine Metabolism",NC(C(O)=O)C(C)CC,AGPKZVBTJJNPAG-UHFFFAOYAW,isoleucine,isoleucine,73-32-5,HMDB0000172,"C06418,C00407,C16424",0.4444
+isoleucylglycine,-0.32358376,NA,Dipeptide,O=C(C(C(CC)C)N)NCC(O)=O,UCGDDTHMMVWVMV-UHFFFAOYAU,isoleucylglycine,isoleucylglycine,868-28-0,HMDB0028907,NA,-0.4394
+isovalerylglycine,NA,-0.095056171,"Leucine, Isoleucine and Valine Metabolism",O=C(O)CNC(CC(C)C)=O,ZRQXMKMBBMNNQC-UHFFFAOYAA,isovalerylglycine,isovalerylglycine,16284-60-9,HMDB00678,NA,0.2333
+lactose,0.519449242,0.419053641,Disaccharides and Oligosaccharides,O[C@H]1[C@H](O[C@H]2[C@H](O)[C@@H](O)[C@H](O)O[C@@H]2CO)O[C@H](CO)[C@H](O)[C@@H]1O,GUBGYTABKSRVRQ-DCSYEGIMBP,lactose,lactose,5965-66-2,HMDB0041627,C01970,-5.3972
+lactosyl.N.nervonoyl.sphingosine..d18.1.24.1..,NA,-0.410410361,Lactosylceramides (LCER),[H][C@](NC(CCCCCCCCCCCCC/C=C\CCCCCCCC)=O)(CO[C@H]1[C@H](O)[C@@H](O)[C@H](O[C@H]2[C@H](O)[C@@H](O)[C@@H](O)[C@H](O2)CO)[C@H](O1)CO)[C@@](O)([H])/C=C/CCCCCCCCCCCCC,MKOKWBRPIBQYJJ-VMHDMWLQBO,lactosyl-N-nervonoyl-sphingosine (d18:1/24:1)*,lactosyl-N-nervonoyl-sphingosine (d18:1/24:1)*,NA,HMDB0004872,NA,8.1082
+lactosyl.N.palmitoyl.sphingosine..d18.1.16.0.,NA,-0.415862546,Lactosylceramides (LCER),O=C(CCCCCCCCCCCCCCC)N[C@@]([C@]([H])(O)/C=C/CCCCCCCCCCCCC)([H])CO[C@H](O1)[C@H](O)[C@@H](O)[C@@H]([C@H]1CO)O[C@H](O2)[C@H](O)[C@@H](O)[C@H]([C@H]2CO)O,NA,lactosyl-N-palmitoyl-sphingosine (d18:1/16:0),lactosyl-N-palmitoyl-sphingosine (d18:1/16:0),4201-62-1,HMDB0006750,NA,5.2114
+leucine,0.493842111,NA,"Leucine, Isoleucine and Valine Metabolism",O=C([C@H](CC(C)C)N)O,NA,leucine,leucine,61-90-5,HMDB0000687,C00123,0.4444
+leukotriene.B4,0.187666712,NA,Eicosanoid,CCCCC/C=C/CC(/C=C/C=C/C=C/C(CCCC(O)=O)O)O,VNYSSYRCGWBHLG-XUOUMLBJBU,leukotriene B4,leukotriene B4,71160-24-2,HMDB0001085,C02165,4.1583
+leukotriene.B5,0.179633792,NA,Eicosanoid,O[C@H](/C=C\C=C\C=C\[C@@H](C/C=C\C/C=C\CC)O)CCCC(O)=O,BISQPGCQOHLHQK-HDNPQISLBC,leukotriene B5,leukotriene B5,88763-92-9,HMDB0005073,NA,3.9343
+levulinoylcarnitine,NA,0.249307832,Food Component/Plant,CC(CCC(OC(CC([O-])=O)C[N+](C)(C)C)=O)=O,NA,levulinoylcarnitine,levulinoylcarnitine,NA,NA,NA,-0.8864
+linolenoylcarnitine..C18.3..,-0.169998534,NA,"Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)",O=C(OC(C[N+](C)(C)C)CC([O-])=O)CCCCCCC/C=C\C/C=C\C/C=C\CC,NA,linolenoylcarnitine (C18:3)*,linolenoylcarnitine (C18:3)*,NA,NA,NA,4.3339
+linoleoyl.arachidonoyl.glycerol..18.2.20.4...1..,0.356533843,NA,Diacylglycerol,OC[C@](OC(CCC/C=C\C/C=C\C/C=C\C/C=C\CCCCC)=O)(COC(CCCCCCC/C=C\C/C=C\CCCCC)=O)[H],NA,linoleoyl-arachidonoyl-glycerol (18:2/20:4) [1]*,linoleoyl-arachidonoyl-glycerol (18:2/20:4) [1]*,NA,HMDB0007257,NA,11.3929
+linoleoyl.arachidonoyl.glycerol..18.2.20.4...2..,0.312161475,0.291157747,Diacylglycerol,OC[C@](COC(CCCCCCC/C=C\C/C=C\CCCCC)=O)([H])OC(CCC/C=C\C/C=C\C/C=C\C/C=C\CCCCC)=O,NA,linoleoyl-arachidonoyl-glycerol (18:2/20:4) [2]*,linoleoyl-arachidonoyl-glycerol (18:2/20:4) [2]*,NA,HMDB0007257,NA,11.3929
+linoleoyl.ethanolamide,NA,-0.091338821,Endocannabinoid,CCCCC/C=C\C/C=C\CCCCCCCC(NCCO)=O,KQXDGUVSAAQARU-HZJYTTRNBB,linoleoyl ethanolamide,linoleoyl ethanolamide,68171-52-8,HMDB0012252,NA,4.9084
+linoleoyl.linoleoyl.glycerol..18.2.18.2...1..,0.232872231,0.236218084,Diacylglycerol,CCCCC/C=C/C/C=C/CCCCCCCC(OCC(OC(CCCCCCC/C=C/C/C=C/CCCCC)=O)CO)=O,NA,linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*,linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*,NA,HMDB0007248,NA,11.0607
+linoleoyl.linoleoyl.glycerol..18.2.18.2...2..,0.175890085,0.097504181,Diacylglycerol,CCCCC/C=C/C/C=C/CCCCCCCC(OCC(OC(CCCCCCC/C=C/C/C=C/CCCCC)=O)CO)=O,NA,linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*,linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*,NA,HMDB0007248,NA,11.0607
+linoleoylcholine.,-0.664065642,NA,Fatty Acid Metabolism (Acyl Choline),C[N+](C)(C)C[CH-]OC(CCCCCCC/C=C/C/C=C/CCCCC)=O,NA,linoleoylcholine*,linoleoylcholine*,NA,HMDB0013213,NA,6.21109
+malate,NA,0.264063688,TCA Cycle,OC(C(O)=O)CC(O)=O,BJEPYKJPYRNKOW-UHFFFAOYAM,malate,malate,6915-15-7,"HMDB0031518,HMDB0000156,HMDB0000744","C00149,C00711,C00497",-1.0934
+maleate,NA,0.3164341,"Fatty Acid, Dicarboxylate",O=C(C=CC(O)=O)O,VZCYOOQTPOCHFL-UPHRSURJBG,maleate,maleate,110-16-7,HMDB0000176,C01384,-0.2882
+maltose,0.314249296,NA,Glycogen Metabolism,O[C@@H]1[C@H]([C@H](O[C@@H]([C@H]1O)CO)O[C@H]2[C@@H]([C@H]([C@H](O[C@@H]2CO)O)O)O)O,GUBGYTABKSRVRQ-ASMJPISFBF,maltose,maltose,6363-53-7,HMDB0000163,C00208,-5.3972
+mannonate.,0.570549189,NA,Food Component/Plant,O=C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O,RGHNJXZEOKUKBD-MBMOQRBOBN,mannonate*,mannonate*,642-99-9,NA,NA,-3.4931
+mannose,0.632315282,NA,"Fructose, Mannose and Galactose Metabolism",O[C@@H]1C(CO)O[C@@H](O)[C@@H](O)[C@H]1O,GZCGUPFRVQAUEE-KVTDHHQDBB,mannose,mannose,3458-28-4,HMDB0000169,"C00159,C02209,C00936",-3.2214
+methionine.sulfone,NA,0.176489162,"Methionine, Cysteine, SAM and Taurine Metabolism",O=S(C)(CCC(N)C(O)=O)=O,UCUNFLYVYCGDHP-UHFFFAOYAG,methionine sulfone,methionine sulfone,820-10-0,HMDB0062174,NA,-1.167
+methionine.sulfoxide,0.16616777,NA,"Methionine, Cysteine, SAM and Taurine Metabolism",O=C(O)[C@@H](N)CCS(C)=O,QEFRNWWLZKMPFJ-YGVKFDHGBW,methionine sulfoxide,methionine sulfoxide,3226-65-1,HMDB0002005,C02989,-0.8331
+methyl.glucopyranoside..alpha...beta.,-0.397443072,NA,Food Component/Plant,O[C@H]1[C@@H]([C@H]([C@H](O[C@@H]1CO)OC)O)O,NA,methyl glucopyranoside (alpha + beta),methyl glucopyranoside (alpha + beta),NA,HMDB0029965,NA,-2.5673
+myristoleoylcarnitine..C14.1..,-0.150305124,NA,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)",O=C(CCCCCCC/C=C\CCCC)O[C@H](CC([O-])=O)C[N+](C)(C)C,NA,myristoleoylcarnitine (C14:1)*,myristoleoylcarnitine (C14:1)*,889848-55-9,HMDB0240588,NA,3.2215
+N.acetyl.aspartyl.glutamate..NAAG.,-0.179849304,NA,Glutamate Metabolism,CC(NC(C(NC(CCC(O)=O)C(O)=O)=O)CC(O)=O)=O,OPVPGKGADVGKTG-UHFFFAOYAF,N-acetyl-aspartyl-glutamate (NAAG),N-acetyl-aspartyl-glutamate (NAAG),3106-85-2,HMDB0001067,C12270,-1.6
+N.acetylalanine,NA,0.166872497,Alanine and Aspartate Metabolism,O=C(O)[C@@H](NC(C)=O)C,KTHDTJVBEPMMGL-VKHMYHEABO,N-acetylalanine,N-acetylalanine,97-69-8,HMDB0000766,C02847,-0.4044
+N.acetylglutamate,NA,0.209292995,Glutamate Metabolism,O=C(O)CC[C@@H](C(O)=O)NC(C)=O,RFMMMVDNIPUKGG-QUCRTXIXBK,N-acetylglutamate,N-acetylglutamate,03/08/5817,HMDB0001138,C00624,-0.5595
+N.acetylhistamine,0.219892526,NA,Histidine Metabolism,O=C(C)NCCC1=CNC=N1,XJWPISBUKWZALE-UHFFFAOYAX,N-acetylhistamine,N-acetylhistamine,673-49-4,HMDB0013253,C05135,0.0883
+N.acetylisoleucine,NA,0.292587254,"Leucine, Isoleucine and Valine Metabolism",CC(N[C@H](C(O)=O)C(C)CC)=O,JDTWZSUNGHMMJM-MSZQBOFLBT,N-acetylisoleucine,N-acetylisoleucine,3077-46-1,HMDB0061684,NA,0.6218
+N.acetylleucine,0.434755077,NA,"Leucine, Isoleucine and Valine Metabolism",O=C(O)[C@H](CC(C)C)NC(C)=O,WXNXCEHXYPACJF-ZETCQYMHBF,N-acetylleucine,N-acetylleucine,1188-21-2,HMDB0011756,C02710,0.6218
+N.acetylserine,NA,0.120571105,"Glycine, Serine and Threonine Metabolism",OC[C@@H](C(O)=O)NC(C)=O,JJIHLJJYMXLCOY-BYPYZUCNBM,N-acetylserine,N-acetylserine,97-14-3,HMDB0002931,NA,-1.432
+N.acetylthreonine,NA,0.123016961,"Glycine, Serine and Threonine Metabolism",CC(O)C(C(O)=O)NC(C)=O,PEDXUVCGOLSNLQ-UHFFFAOYAC,N-acetylthreonine,N-acetylthreonine,17093-74-2,HMDB0062557,NA,-1.0435
+N.formylmethionine,NA,0.207075774,"Methionine, Cysteine, SAM and Taurine Metabolism",CSCCC(C(O)=O)NC=O,PYUSHNKNPOHWEZ-YFKPBYRVBS,N-formylmethionine,N-formylmethionine,4289-98-9,HMDB0001015,C03145,-0.0613
+N.formylphenylalanine,NA,-0.087746718,Tyrosine Metabolism,OC([C@@H](NC=O)CC1=CC=CC=C1)=O,NSTPXGARCQOSAU-VIFPVBQEBQ,N-formylphenylalanine,N-formylphenylalanine,13200-85-6,HMDB0240317,NA,0.4283
+N.N.dimethylalanine,-0.346939368,NA,Alanine and Aspartate Metabolism,C[C@@](C(O)=O)(N(C)C)[H],QCYOIFVBYZNUNW-BYPYZUCNBG,"N,N-dimethylalanine","N,N-dimethylalanine",2812-31-9,NA,NA,0.0211
+N.N.N.trimethyl.5.aminovalerate,NA,0.329057475,Lysine Metabolism,C[N+](C)(C)CCCCC([O-])=O,CDLVFVFTRQPQFU-UHFFFAOYAF,"N,N,N-trimethyl-5-aminovalerate","N,N,N-trimethyl-5-aminovalerate",NA,NA,NA,-0.3872
+N.oleoylserine,-0.279058588,NA,Endocannabinoid,CCCCCCCC/C=C\CCCCCCCC(NC(C(O)=O)CO)=O,MBDKGXAMSZIDKF-KTKRTIGZBQ,N-oleoylserine,N-oleoylserine,NA,NA,NA,4.5856
+N.palmitoylserine,-0.243132102,NA,Endocannabinoid,O=C(CCCCCCCCCCCCCCC)N([H])[C@H](C(O)=O)CO,BFVRFWIQTACAPT-KRWDZBQOBQ,N-palmitoylserine,N-palmitoylserine,"58725-46-5,474943-14-1",NA,NA,4.0294
+N.stearoyl.sphingadienine..d18.2.18.0..,NA,0.096605605,Ceramides,CCCCCCCCCCCCCCCCCC(NC(C(O)/C=C/CCCCCCCC/C=C/CCC)CO)=O,NA,N-stearoyl-sphingadienine (d18:2/18:0)*,N-stearoyl-sphingadienine (d18:2/18:0)*,NA,HMDB0240362,NA,10.1192
+N.stearoylserine.,-0.390231065,-0.333344081,Endocannabinoid,CCCCCCCCCCCCCCCCCC(NC(C(O)=O)CO)=O,CLHUCXCVFSEJRR-UHFFFAOYAZ,N-stearoylserine*,N-stearoylserine*,NA,NA,NA,4.8096
+N2.N2.dimethylguanosine,0.239640982,NA,"Purine Metabolism, Guanine containing",O=C1C(N=CN2[C@@]3([H])[C@@](O)([H])[C@@](O)([H])[C@](CO)([H])O3)=C2N=C(N(C)C)N1,RSPURTUNRHNVGF-IOSLPCCCBE,"N2,N2-dimethylguanosine","N2,N2-dimethylguanosine",2140-67-2,HMDB0004824,NA,-2.2029
+N4.acetylcytidine,0.195956831,0.252537982,"Pyrimidine Metabolism, Cytidine containing",O[C@]1([H])[C@@](O)([H])[C@](CO)([H])O[C@]1(N2C(N=C(NC(C)=O)C=C2)=O)[H],NIDVTARKFBZMOT-PEBGCTIMBU,N4-acetylcytidine,N4-acetylcytidine,3768-18-1,HMDB0005923,NA,-2.1868
+N6.N6.N6.trimethyllysine,NA,-0.616790843,Lysine Metabolism,C[N+](C)(CCCCC(C([O-])=O)N)C,MXNRLFUSFKVQSK-UHFFFAOYAO,"N6,N6,N6-trimethyllysine","N6,N6,N6-trimethyllysine",23284-33-5,HMDB0001325,C03793,-1.0599
+nicotinamide.riboside,NA,0.16515057,Nicotinate and Nicotinamide Metabolism,NC(C1=C[N+](C2C(C(C(C[O-])O2)O)O)=CC=C1)=O,NA,nicotinamide riboside,nicotinamide riboside,1341-23-7,HMDB0000855,C03150,-2.9475
+nisinate..24.6n3.,NA,0.151135668,Long Chain Polyunsaturated Fatty Acid (n3 and n6),OC(CCCC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CC)=O,YHGJECVSSKXFCJ-KUBAVDMBBQ,nisinate (24:6n3),nisinate (24:6n3),68378-49-4,HMDB0013025,NA,7.3291
+oleoyl.arachidonoyl.glycerol..18.1.20.4...1..,NA,0.334229868,Diacylglycerol,CCCCCCCC/C=C/CCCCCCCC(OCC(OC(CCC/C=C/C/C=C/C/C=C/C/C=C/CCCCC)=O)CO)=O,NA,oleoyl-arachidonoyl-glycerol (18:1/20:4) [1]*,oleoyl-arachidonoyl-glycerol (18:1/20:4) [1]*,NA,HMDB0007228,NA,11.6169
+oleoyl.arachidonoyl.glycerol..18.1.20.4...2..,0.391580625,0.353552499,Diacylglycerol,CCCCCCCC/C=C/CCCCCCCC(OCC(OC(CCC/C=C/C/C=C/C/C=C/C/C=C/CCCCC)=O)CO)=O,NA,oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]*,oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]*,NA,HMDB0007228,NA,11.6169
+oleoyl.linoleoyl.glycerol..18.1.18.2...1.,NA,0.263127044,Diacylglycerol,CCCCCCCC/C=C\CCCCCCCC(OCC(CO)OC(CCCCCCC/C=C\C/C=C\CCCCC)=O)=O,BLZVZPYMHLXLHG-RQOIEFAZBI,oleoyl-linoleoyl-glycerol (18:1/18:2) [1],oleoyl-linoleoyl-glycerol (18:1/18:2) [1],106292-55-1,HMDB0007219,NA,11.2847
+oleoyl.linoleoyl.glycerol..18.1.18.2...2.,NA,0.276618609,Diacylglycerol,CCCCCCCC/C=C\CCCCCCCC(OCC(COC(CCCCCCC/C=C\C/C=C\CCCCC)=O)O)=O,NA,oleoyl-linoleoyl-glycerol (18:1/18:2) [2],oleoyl-linoleoyl-glycerol (18:1/18:2) [2],104346-53-4,HMDB0007219,NA,11.2847
+oleoyl.oleoyl.glycerol..18.1.18.1....1..,NA,0.264498038,Diacylglycerol,OCC(OC(CCCCCCC/C=C\CCCCCCCC)=O)COC(CCCCCCC/C=C\CCCCCCCC)=O,NA,oleoyl-oleoyl-glycerol (18:1/18:1)  [1]*,oleoyl-oleoyl-glycerol (18:1/18:1)  [1]*,NA,HMDB0007218,NA,11.5087
+oleoyl.oleoyl.glycerol..18.1.18.1...2..,NA,0.236140653,Diacylglycerol,OCC(OC(CCCCCCC/C=C\CCCCCCCC)=O)COC(CCCCCCC/C=C\CCCCCCCC)=O,NA,oleoyl-oleoyl-glycerol (18:1/18:1) [2]*,oleoyl-oleoyl-glycerol (18:1/18:1) [2]*,NA,HMDB0007218,NA,11.5087
+oleoylcholine,-0.631401546,NA,Fatty Acid Metabolism (Acyl Choline),O=C(CCCCCCC/[C-]=C/CCCCCCCC)OCC[N+](C)(C)C,NA,oleoylcholine,oleoylcholine,NA,HMDB0240596,NA,6.07649
+orotate,-0.186976416,NA,"Pyrimidine Metabolism, Orotate containing",O=C(C1=CC(O)=NC(O)=N1)O,PXQPEWDEAKTCGB-UHFFFAOYAD,orotate,orotate,50887-69-9,HMDB0000226,C00295,-0.414
+orotidine,0.210959756,0.302172109,"Pyrimidine Metabolism, Orotate containing",O=C(C=C(C(O)=O)N1[C@H]2[C@H](O)[C@H](O)[C@@H](CO)O2)NC1=O,FKCRAVPPBFWEJD-XVFCMESIBQ,orotidine,orotidine,314-50-1,HMDB0000788,NA,-3.1537
+oxalate..ethanedioate.,-0.278260205,NA,Ascorbate and Aldarate Metabolism,O=C(O)C(O)=O,MUBZPKHOEPUJKR-UHFFFAOYAQ,oxalate (ethanedioate),oxalate (ethanedioate),144-62-7,HMDB0002329,C00209,-0.8444
+palmitoleoyl.linoleoyl.glycerol..16.1.18.2...1..,NA,0.226500928,Diacylglycerol,CCCCCC/C=C/CCCCCCCC(OCC(OC(CCCCCCC/C=C/C/C=C/CCCCC)=O)CO)=O,NA,palmitoleoyl-linoleoyl-glycerol (16:1/18:2) [1]*,palmitoleoyl-linoleoyl-glycerol (16:1/18:2) [1]*,NA,HMDB0007132,NA,10.5045
+palmitoloelycholine,-0.52562339,-0.350171297,Fatty Acid Metabolism (Acyl Choline),O=C(CCCCCCC/[C-]=C/CCCCCC)OCC[N+](C)(C)C,NA,palmitoloelycholine,palmitoloelycholine,NA,HMDB0013208,NA,5.29629
+palmitoyl.arachidonoyl.glycerol..16.0.20.4...2..,0.3096278,NA,Diacylglycerol,CCCCCCCCCCCCCCCC(OCC(CO)OC(CCC/C=C/C/C=C/C/C=C/C/C=C/CCCCC)=O)=O,NA,palmitoyl-arachidonoyl-glycerol (16:0/20:4) [2]*,palmitoyl-arachidonoyl-glycerol (16:0/20:4) [2]*,NA,HMDB0007112,NA,11.0607
+palmitoyl.docosahexaenoyl.glycerol..16.0.22.6...1..,NA,0.211573352,Diacylglycerol,CCCCCCCCCCCCCCCC(OCC(OC(CC/C=C/C/C=C/C/C=C/C/C=C/C/C=C/C/C=C/CC)=O)CO)=O,NA,palmitoyl-docosahexaenoyl-glycerol (16:0/22:6) [1]*,palmitoyl-docosahexaenoyl-glycerol (16:0/22:6) [1]*,NA,HMDB0007121,NA,11.3929
+palmitoyl.linoleoyl.glycerol..16.0.18.2...1..,0.245234811,NA,Diacylglycerol,OC[C@]([H])(OC(CCCCCCC/C=C\C/C=C\CCCCC)=O)COC(CCCCCCCCCCCCCCC)=O,SVXWJFFKLMLOHO-YAIZGCQRBM,palmitoyl-linoleoyl-glycerol (16:0/18:2) [1]*,palmitoyl-linoleoyl-glycerol (16:0/18:2) [1]*,NA,HMDB0007103,NA,10.7285
+palmitoyl.linoleoyl.glycerol..16.0.18.2...2..,0.317175919,NA,Diacylglycerol,CCCCCCCCCCCCCCCC(OCC(O)COC(CCCCCCC/C=C\C/C=C\CCCCC)=O)=O,NA,palmitoyl-linoleoyl-glycerol (16:0/18:2) [2]*,palmitoyl-linoleoyl-glycerol (16:0/18:2) [2]*,NA,HMDB0007103,NA,10.7285
+palmitoylcholine,-0.635554732,NA,Fatty Acid Metabolism (Acyl Choline),C[N+](C)(C)CCOC(CCCCCCCCCCCCCC[CH2-])=O,NA,palmitoylcholine,palmitoylcholine,NA,HMDB0240592,NA,5.53129
+pantothenate,NA,0.182276338,Pantothenate and CoA Metabolism,O=C(NCCC(O)=O)[C@H](O)C(C)(C)CO,GHOKWGTUZJEAQD-ZETCQYMHBS,pantothenate,pantothenate (Vitamin B5),137-08-6,HMDB0000210,C00864,-1.0433
+phenylacetylglutamate,NA,0.187713039,Acetylated Peptides,O=C(N[C@H](C(O)=O)CCC(O)=O)CC1=CC=CC=C1,PTSRBZOZSRJCKX-JTQLQIEIBG,phenylacetylglutamate,phenylacetylglutamate,NA,HMDB0059772,NA,0.6633
+phenylalanylalanine,NA,-0.168256543,Dipeptide,O=C([C@H](C)NC([C@H](CC1=CC=CC=C1)N)=O)O,MIDZLCFIAINOQN-WPRPVWTQBF,phenylalanylalanine,phenylalanylalanine,3918-87-4,HMDB0028988,NA,0.1457
+phenylalanylglycine,-0.18641825,NA,Dipeptide,O=C(CNC(C(CC1=CC=CC=C1)N)=O)O,GLUBLISJVJFHQS-UHFFFAOYAD,phenylalanylglycine,phenylalanylglycine,721-90-4,HMDB0028995,NA,-0.2428
+phytanate,-0.179527736,NA,Food Component/Plant,CC(CCCC(CCCC(CCCC(C)C)C)C)CC(O)=O,RLCKHJSFHOZMDR-REWHXWOFAK,phytanate,phytanate,14721-66-5,HMDB0000801,C01607,6.5363
+pimeloylcarnitine.3.methyladipoylcarnitine..C7.DC.,NA,-0.382242884,"Fatty Acid Metabolism (Acyl Carnitine, Dicarboxylate)",[O-]C(CC(C[N+](C)(C)C)OC(CCCCCC(O)=O)=O)=O,NA,pimeloylcarnitine/3-methyladipoylcarnitine (C7-DC),pimeloylcarnitine/3-methyladipoylcarnitine (C7-DC),NA,NA,NA,-0.2205
+pregnanediol.3.glucuronide,-0.238291339,NA,Progestin Steroids,[H][C@]12CC[C@]3([C@@]4(CC[C@]([C@@H](O)C)([C@]4(CC[C@@]3([C@]1(CC[C@@H](O[C@@H]5O[C@H]([C@](O)=O)[C@H]([C@@H]([C@H]5O)O)O)C2)C)[H])C)[H])[H])[H],ZFFFJLDTCLJDHL-JQYCEVDMBA,pregnanediol-3-glucuronide,pregnanediol-3-glucuronide,1852-49-9,HMDB0010318,NA,2.3035
+pro.hydroxy.pro,-0.321494417,NA,Urea cycle; Arginine and Proline Metabolism,OC([C@H]1N(C([C@H]2NCCC2)=O)CC(O)C1)=O,ONPXCLZMBSJLSP-ALKRTJFJBT,pro-hydroxy-pro,prolylhydroxyproline,18684-24-7,HMDB0006695,NA,-1.2152
+prolylglycine,NA,0.301923984,Dipeptide,O=[C@]([C@H]1NCCC1)NCC(O)=O,RNKSNIBMTUYWSH-YFKPBYRVBZ,prolylglycine,prolylglycine,2578-57-6,HMDB0011178,NA,-1.0608
+pyridoxal,-0.223971624,NA,Vitamin B6 Metabolism,OC1=C(C)N=CC(CO)=C1C=O,RADKZDMFGJYCBB-UHFFFAOYAP,pyridoxal,pyridoxal,65-22-5,HMDB0001545,C00250,0.40042
+pyridoxate,-0.18043174,NA,Vitamin B6 Metabolism,OC1=C(C(O)=O)C(CO)=CN=C1C,HXACOUQIXZGNBF-UHFFFAOYAG,pyridoxate,pyridoxate,82-82-6,HMDB0000017,C00847,0.28612
+pyruvate,0.487673311,NA,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",CC(C(O)=O)=O,LCTONWCANYUPML-REWHXWOFAD,pyruvate,pyruvate,127-17-3,HMDB0000243,C00022,-0.34
+retinal,NA,0.085449634,Vitamin A Metabolism,O=C([H])/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)CCCC1(C)C,NCYCYZXNIZJOKI-OVSJKPMPBO,retinal,retinal,NA,HMDB0001358,C00376,5.7169
+retinol..Vitamin.A.,NA,0.236695788,Vitamin A Metabolism,C/C(/C=C/C(C(C)(CCC1)C)=C1C)=C\C=C\C(C)=C\CO,FPIPGXGPPPQFEQ-OVSJKPMPBW,retinol (Vitamin A),retinol (Vitamin A),68-26-8,HMDB0000305,C00473,5.5103
+ribitol,0.422517048,NA,Pentose Metabolism,OC[C@@H](O)[C@@H](O)[C@@H](O)CO,HEBKCHPVOIAQTA-ZXFHETKHBG,ribitol,ribitol,488-81-3,"HMDB0002917,HMDB0001851,HMDB0000568,HMDB0000508","C00379,C01904,C00474,C00532",-2.9463
+ribonate,0.311634715,NA,Pentose Metabolism,OC([C@H](O)[C@H](O)[C@H](O)CO)=O,QXKAIJAYHKCRRA-BXXZVTAOBP,ribonate,ribonate,03/08/5336,HMDB0000867,C01685,-2.854
+S.methylcysteine,-0.226659258,NA,"Methionine, Cysteine, SAM and Taurine Metabolism",OC([C@H](CSC)N)=O,IDIDJDIHTAOVLG-VKHMYHEABD,S-methylcysteine,S-methylcysteine,1187-84-4,HMDB0002108,NA,-0.2387
+sphingomyelin..d17.1.14.0..d16.1.15.0..,-0.29181425,NA,Sphingomyelins,CCCCCCCCCCC/C=C/[C@@H](O)[C@@H](NC(CCCCCCCCCCCCCC)=O)COP(OCC[N+](C)(C)C)([O-])=O,NA,"sphingomyelin (d17:1/14:0, d16:1/15:0)*","sphingomyelin (d17:1/14:0, d16:1/15:0)*",NA,NA,NA,8.6082
+sphingomyelin..d17.2.16.0..d18.2.15.0..,-0.171259953,NA,Sphingomyelins,[H][C@](NC(CCCCCCCCCCCCCC)=O)(COP(OCC[N+](C)(C)C)([O-])=O)[C@@](O)([H])/C=C/CCCCCCCC/C=C\CCC,NA,"sphingomyelin (d17:2/16:0, d18:2/15:0)*","sphingomyelin (d17:2/16:0, d18:2/15:0)*",NA,HMDB0240677,NA,9.1644
+sphingomyelin..d18.1.24.1..d18.2.24.0..,NA,-0.314722926,Sphingomyelins,O[C@H](/C=C/CCCCCCCCCCCCC)[C@H](CO[P](OCC[N+](C)(C)C)([O-])=O)NC(CCCCCCCCCCCCC/C=C\CCCCCCCC)=O,WKZHECFHXLTOLJ-QYKFWSDSBN,"sphingomyelin (d18:1/24:1, d18:2/24:0)*","sphingomyelin (d18:1/24:1, d18:2/24:0)*",94359-13-4,HMDB0012107,NA,12.6753
+sphingomyelin..d18.2.14.0..d18.1.14.1..,-0.196776059,-0.245061732,Sphingomyelins,CCCC/C=C/CCCCCCCC(N[C@@](COP([O-])(OCC[N+](C)(C)C)=O)([C@](O)(/C=C/CCCCCCCCCCCCC)[H])[H])=O,NA,"sphingomyelin (d18:2/14:0, d18:1/14:1)*","sphingomyelin (d18:2/14:0, d18:1/14:1)*",NA,"HMDB0240637,HMDB0240612",NA,8.7743
+sphingomyelin..d18.2.21.0..d16.2.23.0..,-0.155477417,NA,Sphingomyelins,CCC/C=C/CCCCCCCC/C=C/[C@@H](O)[C@@H](NC(CCCCCCCCCCCCCCCCCCCC)=O)COP([O-])(OCC[N+](C)(C)C)=O,NA,"sphingomyelin (d18:2/21:0, d16:2/23:0)*","sphingomyelin (d18:2/21:0, d16:2/23:0)*",NA,HMDB0240676,NA,11.505
+sphingomyelin..d18.2.23.1..,-0.247719211,-0.288586135,Sphingomyelins,CCC/C=C/CCCCCCCC/C=C/[C@@H](O)[C@@H](NC(CCCCCCCCCCCCCCCCC/C=C/CCC)=O)COP([O-])(OCC[N+](C)(C)C)=O,NA,sphingomyelin (d18:2/23:1)*,sphingomyelin (d18:2/23:1)*,NA,HMDB0240668,NA,12.0612
+sphingomyelin..d18.2.24.1..d18.1.24.2..,NA,-0.412977138,Sphingomyelins,[H][C@](NC(CCCCCCCCCCCCC/C=C\CCCCCCCC)=O)(COP(OCC[N+](C)(C)C)([O-])=O)[C@@](O)([H])/C=C/CCCCCCCC/C=C\CCC,NA,"sphingomyelin (d18:2/24:1, d18:1/24:2)*","sphingomyelin (d18:2/24:1, d18:1/24:2)*",NA,"HMDB0240636,HMDB0240615",NA,12.4513
+sphingomyelin..d18.2.24.2..,NA,-0.352351253,Sphingomyelins,CCC/C=C/CCCCCCCC/C=C/[C@@H](O)[C@@H](NC(CCCCCCCCCCCCCCCC/C=C/C/C=C/CC)=O)COP([O-])(OCC[N+](C)(C)C)=O,NA,sphingomyelin (d18:2/24:2)*,sphingomyelin (d18:2/24:2)*,NA,HMDB0240644,NA,12.2273
+stearoylcarnitine..C18.,-0.183646271,NA,"Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)",[O-]C(C[C@@H](OC(CCCCCCCCCCCCCCCCC)=O)C[N+](C)(C)C)=O,FNPHNLNTJNMAEE-HSZRJFAPBW,stearoylcarnitine (C18),stearoylcarnitine (C18),18822-91-8,HMDB0000848,NA,5.0059
+stearoylcholine.,-0.632222101,NA,Fatty Acid Metabolism (Acyl Choline),C[N+](C)(C)C[CH-]OC(CCCCCCCCCCCCCCCCC)=O,NA,stearoylcholine*,stearoylcholine*,NA,HMDB0240648,NA,6.65909
+succinimide,NA,0.108783789,Chemical,O=C1NC(CC1)=O,KZNICNPSHKQLFF-UHFFFAOYAV,succinimide,succinimide,123-56-8,NA,C07273,-0.577
+tauro.beta.muricholate,NA,-0.278346138,Primary Bile Acid Metabolism,O=S(CCNC(CC[C@@H](C)[C@@]1([H])CCC2C3[C@@H](O)[C@@H](O)[C@]4([H])C[C@H](O)CC[C@]4(C)C3CC[C@]12C)=O)(O)=O,XSOLDPYUICCHJX-OEYGYFRSBZ,tauro-beta-muricholate,tauro-beta-muricholate,25696-60-0,HMDB0000932,NA,2.3681
+taurochenodeoxycholic.acid.3.sulfate,NA,-0.333427489,Secondary Bile Acid Metabolism,[H][C@@](CCC(NCCS(O)(=O)=O)=O)([C@]1(CC[C@]2([C@@]3([C@@H](C[C@@]4(C[C@H](S(O)(=O)=O)CC[C@@]4([C@]3(C[C@H]([C@]12C)O)[H])C)[H])O)[H])[H])[H])C,IJHJZQKOSUFQCX-WZJRQFJBBW,taurochenodeoxycholic acid 3-sulfate,taurochenodeoxycholic acid 3-sulfate,NA,HMDB0002486,NA,2.2636
+taurocholenate.sulfate.,NA,-0.191904687,Secondary Bile Acid Metabolism,O=S(OC1CCC2(C)C(CCC3C2CCC4(C)C3CCC4C(CCC(NCCS(=O)(O)=O)=O)C)=C1)(O)=O,NA,taurocholenate sulfate*,taurocholenate sulfate*,NA,NA,NA,4.1737
+taurodeoxycholic.acid.3.sulfate,NA,-0.194065931,Secondary Bile Acid Metabolism,C[C@@]12[C@@](CCC3C2C[C@H](O)[C@@]4(C)C3CC[C@@H]4[C@@H](CCC(NCCS(O)(=O)=O)=O)C)([H])C[C@H](OS(O)(=O)=O)CC1,NA,taurodeoxycholic acid 3-sulfate,taurodeoxycholic acid 3-sulfate,NA,NA,NA,3.2244
+taurolithocholate.3.sulfate,NA,-0.188130602,Secondary Bile Acid Metabolism,C[C@@]([C@]([C@@](CC1)([H])[C@@]2([H])[C@](CC3)(C)[C@]1([H])C[C@@H]3OS(=O)(O)=O)(CC4)[H])(CC2)[C@]4([H])[C@H](C)CCC(NCCS(O)(=O)=O)=O,HSNPMXROZIQAQD-GBURMNQMBI,taurolithocholate 3-sulfate,taurolithocholate 3-sulfate,64936-83-0,HMDB0002580,C03642,4.2536
+tetrahydrocortisol.glucuronide,0.299784878,NA,Corticosteroids,[H][C@@]12[C@@]3(C)CC[C@@H](OC4OC(C(O)=O)C(O)C(O)C4O)C[C@@]3([H])CC[C@@]1([H])[C@]5([H])CC[C@@](C(CO)=O)(O)[C@@]5(C)C[C@@H]2O,NA,tetrahydrocortisol glucuronide,tetrahydrocortisol glucuronide,NA,NA,NA,-0.4302
+tetrahydrocortisone.glucuronide..5.,0.346916918,NA,Corticosteroids,[H][C@@]12C[C@H](OC3C(O)C(O)C(O)C(C(O)=O)O3)CC[C@]1(C)[C@@]([C@@]4([H])CC2)([H])C(C[C@@]5(C)[C@@]4([H])CC[C@]5(O)C(CO)=O)=O,NA,tetrahydrocortisone glucuronide (5),tetrahydrocortisone glucuronide (5),NA,NA,NA,-0.222
+threonate,-0.246918884,NA,Ascorbate and Aldarate Metabolism,O=C(O)C(O)([H])C([H])(O)CO,JPIJQSOTBSSVTP-GBXIJSLDBD,threonate,threonate,70753-61-6,"HMDB0062620,HMDB0000943",C01620,-2.2149
+trimethylamine.N.oxide,NA,0.221991737,Phospholipid Metabolism,C[N+](C)([O-])C,UYPYRKYUKCHHIB-UHFFFAOYAU,trimethylamine N-oxide,trimethylamine N-oxide,1184-78-7,HMDB0000925,C01104,0.1904
+undecanedioate..C11.DC.,NA,0.08778956,"Fatty Acid, Dicarboxylate",O=C(O)CCCCCCCCCC(O)=O,LWBHHRRTOZQPDM-UHFFFAOYAZ,undecanedioate (C11-DC),undecanedioate (C11-DC),1852-04-6,HMDB0000888,NA,2.6665
+urate,0.228313077,NA,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",O=C1NC(NC(NC2=O)=O)=C2N1,LEHOTFFKMJEONL-UHFFFAOYAN,urate,urate,"120K5305,69-93-2",HMDB0000289,C00366,-1.7672
+valine,0.45670803,NA,"Leucine, Isoleucine and Valine Metabolism",N[C@H](C(O)=O)C(C)C,KZSNJWFQEVHDMF-BYPYZUCNBW,valine,valine,72-18-4,HMDB0000883,C00183,0.0543
+valylglycine,-0.175029878,NA,Dipeptide,O=C(C(C(C)C)N)NCC(O)=O,IOUPEELXVYPCPG-UHFFFAOYAB,valylglycine,valylglycine,686-43-1,HMDB0029127,NA,-0.8295
+vanillylmandelate..VMA.,-0.154248356,NA,Tyrosine Metabolism,OC(C(O)=O)C1=CC=C(O)C(OC)=C1,CGQCWMIAEPEHNQ-UHFFFAOYAY,vanillylmandelate (VMA),vanillylmandelate (VMA),55-10-7,HMDB0000291,C05584,0.5188
+X.10458,0.209201424,0.100916427,NA,NA,NA,X-10458,X-10458,NA,NA,NA,
+X.11308,0.310478627,NA,NA,NA,NA,X-11308,X-11308,NA,NA,NA,
+X.11315,-0.360560336,NA,NA,NA,NA,X-11315,X-11315,NA,NA,NA,
+X.11378,0.326015652,NA,NA,NA,NA,X-11378,X-11378,NA,NA,NA,
+X.11444,0.253354689,NA,NA,NA,NA,X-11444,X-11444,NA,NA,NA,
+X.11787,NA,0.225024433,NA,NA,NA,X-11787,X-11787,NA,NA,NA,
+X.11880,0.246631608,NA,NA,NA,NA,X-11880,X-11880,NA,NA,NA,
+X.12007,NA,0.19656773,NA,NA,NA,X-12007,X-12007,NA,NA,NA,
+X.12101,NA,0.245625267,NA,NA,NA,X-12101,X-12101,NA,NA,NA,
+X.12456,0.498364449,NA,NA,NA,NA,X-12456,X-12456,NA,NA,NA,
+X.12680,NA,0.082075486,NA,NA,NA,X-12680,X-12680,NA,NA,NA,
+X.12714,NA,0.200257708,NA,NA,NA,X-12714,X-12714,NA,NA,NA,
+X.12718,NA,0.292282515,NA,NA,NA,X-12718,X-12718,NA,NA,NA,
+X.12726,NA,-0.221746216,NA,NA,NA,X-12726,X-12726,NA,NA,NA,
+X.12738,NA,-0.077773766,NA,NA,NA,X-12738,X-12738,NA,NA,NA,
+X.12830,NA,-0.087372585,NA,NA,NA,X-12830,X-12830,NA,NA,NA,
+X.13431,-0.205148108,NA,NA,NA,NA,X-13431,X-13431,NA,NA,NA,
+X.13507,NA,0.277952533,NA,NA,NA,X-13507,X-13507,NA,NA,NA,
+X.13658,0.285914273,NA,NA,NA,NA,X-13658,X-13658,NA,NA,NA,
+X.13723,NA,0.179748433,NA,NA,NA,X-13723,X-13723,NA,NA,NA,
+X.13729,NA,0.139842325,NA,NA,NA,X-13729,X-13729,NA,NA,NA,
+X.15245,0.344016367,NA,NA,NA,NA,X-15245,X-15245,NA,NA,NA,
+X.15461,NA,0.389122015,NA,NA,NA,X-15461,X-15461,NA,NA,NA,
+X.16087,0.23743478,0.269590743,NA,NA,NA,X-16087,X-16087,NA,NA,NA,
+X.16397,-0.248701135,-0.429851671,NA,NA,NA,X-16397,X-16397,NA,NA,NA,
+X.16580,NA,0.322554374,NA,NA,NA,X-16580,X-16580,NA,NA,NA,
+X.16935,0.408752029,NA,NA,NA,NA,X-16935,X-16935,NA,NA,NA,
+X.16964,NA,0.078363562,NA,NA,NA,X-16964,X-16964,NA,NA,NA,
+X.17010,0.237236471,NA,NA,NA,NA,X-17010,X-17010,NA,NA,NA,
+X.17328,NA,0.127153715,NA,NA,NA,X-17328,X-17328,NA,NA,NA,
+X.17343,NA,0.080273519,NA,NA,NA,X-17343,X-17343,NA,NA,NA,
+X.17354,-0.319584105,NA,NA,NA,NA,X-17354,X-17354,NA,NA,NA,
+X.17357,0.268840288,NA,NA,NA,NA,X-17357,X-17357,NA,NA,NA,
+X.17653,0.236025601,NA,NA,NA,NA,X-17653,X-17653,NA,NA,NA,
+X.17654,0.235279313,NA,NA,NA,NA,X-17654,X-17654,NA,NA,NA,
+X.17673,NA,0.111181688,NA,NA,NA,X-17673,X-17673,NA,NA,NA,
+X.17765,0.183484461,NA,NA,NA,NA,X-17765,X-17765,NA,NA,NA,
+X.17969,NA,-0.151275029,NA,NA,NA,X-17969,X-17969,NA,NA,NA,
+X.18886,NA,0.330656039,NA,NA,NA,X-18886,X-18886,NA,NA,NA,
+X.18887,-0.288326077,NA,NA,NA,NA,X-18887,X-18887,NA,NA,NA,
+X.18921,-0.220890511,NA,NA,NA,NA,X-18921,X-18921,NA,NA,NA,
+X.18922,NA,0.255060291,NA,NA,NA,X-18922,X-18922,NA,NA,NA,
+X.19438,NA,0.203942916,NA,NA,NA,X-19438,X-19438,NA,NA,NA,
+X.2.or.3..decenoate..10.1n7.or.n8.,NA,0.062971478,Medium Chain Fatty Acid,CCCCCCC/C=C/C(O)=O,NA,(2 or 3)-decenoate (10:1n7 or n8),(2 or 3)-decenoate (10:1n7 or n8),NA,NA,NA,2.9877
+X.21312,-0.178203251,NA,NA,NA,NA,X-21312,X-21312,NA,NA,NA,
+X.21339,0.32062469,NA,NA,NA,NA,X-21339,X-21339,NA,NA,NA,
+X.21442,-0.195552093,NA,NA,NA,NA,X-21442,X-21442,NA,NA,NA,
+X.21467,0.431772684,NA,NA,NA,NA,X-21467,X-21467,NA,NA,NA,
+X.21471,0.391086645,NA,NA,NA,NA,X-21471,X-21471,NA,NA,NA,
+X.21736,NA,0.27991193,NA,NA,NA,X-21736,X-21736,NA,NA,NA,
+X.21742,-0.241975166,NA,NA,NA,NA,X-21742,X-21742,NA,NA,NA,
+X.21839,NA,-0.091768506,NA,NA,NA,X-21839,X-21839,NA,NA,NA,
+X.21842,NA,-0.218519009,NA,NA,NA,X-21842,X-21842,NA,NA,NA,
+X.21845,NA,-0.071440369,NA,NA,NA,X-21845,X-21845,NA,NA,NA,
+X.22162,-0.17023927,NA,NA,NA,NA,X-22162,X-22162,NA,NA,NA,
+X.22509,-0.248157151,NA,NA,NA,NA,X-22509,X-22509,NA,NA,NA,
+X.22834,NA,0.246875505,NA,NA,NA,X-22834,X-22834,NA,NA,NA,
+X.23593,NA,0.247834871,NA,NA,NA,X-23593,X-23593,NA,NA,NA,
+X.23639,-0.222300117,NA,NA,NA,NA,X-23639,X-23639,NA,NA,NA,
+X.23641,NA,0.248262856,NA,NA,NA,X-23641,X-23641,NA,NA,NA,
+X.23648,NA,0.331842709,NA,NA,NA,X-23648,X-23648,NA,NA,NA,
+X.23662,0.399644175,0.383460779,NA,NA,NA,X-23662,X-23662,NA,NA,NA,
+X.23997,NA,0.066914137,NA,NA,NA,X-23997,X-23997,NA,NA,NA,
+X.24243,NA,0.194249107,NA,NA,NA,X-24243,X-24243,NA,NA,NA,
+X.24295,0.377121286,NA,NA,NA,NA,X-24295,X-24295,NA,NA,NA,
+X.24410,NA,0.30130364,NA,NA,NA,X-24410,X-24410,NA,NA,NA,
+X.24411,0.237815859,0.275849111,NA,NA,NA,X-24411,X-24411,NA,NA,NA,
+X.24425,NA,-0.136910588,NA,NA,NA,X-24425,X-24425,NA,NA,NA,
+X.24475,-0.286538766,NA,NA,NA,NA,X-24475,X-24475,NA,NA,NA,
+X.24519,NA,0.312832096,NA,NA,NA,X-24519,X-24519,NA,NA,NA,
+X.24549,NA,0.094669087,NA,NA,NA,X-24549,X-24549,NA,NA,NA,
+X.24556,-0.210215925,NA,NA,NA,NA,X-24556,X-24556,NA,NA,NA,
+X.24588,0.185076076,NA,NA,NA,NA,X-24588,X-24588,NA,NA,NA,
+X.24608,0.16740615,NA,NA,NA,NA,X-24608,X-24608,NA,NA,NA,
+X.24669,NA,-0.135038843,NA,NA,NA,X-24669,X-24669,NA,NA,NA,
+X.24728,NA,0.327558916,NA,NA,NA,X-24728,X-24728,NA,NA,NA,
+X.24736,-0.212160571,-0.154601617,NA,NA,NA,X-24736,X-24736,NA,NA,NA,
+X.24747,NA,-0.098285334,NA,NA,NA,X-24747,X-24747,NA,NA,NA,
+X.24951,0.226476775,NA,NA,NA,NA,X-24951,X-24951,NA,NA,NA,
+X.25418,NA,0.095536749,NA,NA,NA,X-25418,X-25418,NA,NA,NA,
+X.25454,NA,0.274451582,NA,NA,NA,X-25454,X-25454,NA,NA,NA,
+X.25519,0.305231515,NA,NA,NA,NA,X-25519,X-25519,NA,NA,NA,
+X.25855,NA,0.344190331,NA,NA,NA,X-25855,X-25855,NA,NA,NA,
+X.25936,0.389017529,NA,NA,NA,NA,X-25936,X-25936,NA,NA,NA,
+X.25957,NA,0.067312356,NA,NA,NA,X-25957,X-25957,NA,NA,NA,
+X.26107,NA,0.359694797,NA,NA,NA,X-26107,X-26107,NA,NA,NA,
+X.26108,NA,0.52083171,NA,NA,NA,X-26108,X-26108,NA,NA,NA,
+X.R..3.hydroxybutyrylcarnitine,NA,0.391390803,"Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)",CC(CC(OC(C[N+](C)(C)C)CC([O-])=O)=O)O,NA,(R)-3-hydroxybutyrylcarnitine,(R)-3-hydroxybutyrylcarnitine,NA,HMDB0013127,NA,-1.4847
+X.S..3.hydroxybutyrylcarnitine,NA,0.492006955,"Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)",CC(O)CC(OC(C[N+](C)(C)C)CC([O-])=O)=O,NA,(S)-3-hydroxybutyrylcarnitine,(S)-3-hydroxybutyrylcarnitine,NA,HMDB0013127,NA,-1.4847
+X1..1.enyl.palmitoyl..2.oleoyl.GPC..P.16.0.18.1..,-0.551308156,NA,Plasmalogen,[H][C@](OC(CCCCCCC/C=C\CCCCCCCC)=O)(CO[P-](OCC[N+](C)(C)C)([O])=O)CO/C=C\CCCCCCCCCCCCCC,NA,1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*,1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*,NA,HMDB0007996,NA,12.8352
+X1..1.enyl.palmitoyl..2.palmitoleoyl.GPC..P.16.0.16.1..,-0.464018414,NA,Plasmalogen,[H][C@](OC(CCCCCCC/C=C\CCCCCC)=O)(COP(OCC[N+](C)(C)C)([O-])=O)CO/C=C\CCCCCCCCCCCCCC,NA,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*,NA,HMDB0011207,NA,10.9848
+X1..1.enyl.palmitoyl..GPC..P.16.0..,-0.498787013,NA,Lysoplasmalogen,CCCCCCCCCCCCCC/C=C\OC[C@H](COP([O-])(OCC[N+](C)(C)C)=O)O,HTZINLFNXLXRBC-CQLBIITFBS,1-(1-enyl-palmitoyl)-GPC (P-16:0)*,1-(1-enyl-palmitoyl)-GPC (P-16:0)*,NA,HMDB0010407,NA,5.1766
+X1.5.anhydroglucitol..1.5.AG.,-0.522795882,NA,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",O[C@@H]1[C@@H](CO)OC[C@H](O)[C@H]1O,MPCAJMNYNOGXPB-SLPGGIOYBT,"1,5-anhydroglucitol (1,5-AG)","1,5-anhydroglucitol (1,5-AG)",154-58-5,HMDB0002712,C07326,-2.5398
+X1.cerotoyl.GPC..26.0..,NA,-0.180031514,Lysophospholipid,C[N+](C)(CCOP([O-])(OC[C@@](O)([H])COC(CCCCCCCCCCCCCCCCCCCCCCCCC)=O)=O)C,WSDKRPCAPHRNNZ-MGBGTMOVBI,1-cerotoyl-GPC (26:0)*,1-cerotoyl-GPC (26:0)*,NA,HMDB29205,NA,8.4806
+X1.docosahexaenoylglycerol..22.6.,NA,-0.074317111,Monoacylglycerol,O=C(OCC(O)CO)CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CC,JWPHORDRFVRZPP-KUBAVDMBBG,1-docosahexaenoylglycerol (22:6),1-docosahexaenoylglycerol (22:6),NA,HMDB0011587,NA,5.3607
+X1.linolenoyl.GPC..18.3..,-0.296366262,NA,Lysophospholipid,C[N+](CCOP(OCC(O)COC(CCCCCCC/C=C/C/C=C/C/C=C/CC)=O)([O-])=O)(C)C,NA,1-linolenoyl-GPC (18:3)*,1-linolenoyl-GPC (18:3)*,NA,HMDB0010388,C04100,4.6878
+X1.linoleoyl.GPG..18.2..,0.224861527,NA,Lysophospholipid,[H][C@@](CO)(O)COP(OC[C@]([H])(O)COC(CCCCCCC/C=C\C/C=C\CCCCC)=O)(O)=O,NA,1-linoleoyl-GPG (18:2)*,1-linoleoyl-GPG (18:2)*,NA,HMDB0240600,NA,4.1908
+X1.methylhistamine,NA,0.162910254,Histidine Metabolism,CN1C=C(CCN)N=C1,FHQDWPCFSJMNCT-UHFFFAOYAR,1-methylhistamine,1-methylhistamine,501-75-7,HMDB0000898,C05127,-0.0787
+X1.oleoyl.2.arachidonoyl.GPE..18.1.20.4..,NA,0.252089547,Phosphatidylethanolamine (PE),O=C(CCCCCCC/C=C\CCCCCCCC)OC[C@]([H])(COP(OCCN)(O)=O)OC(CCC/C=C\C/C=C\C/C=C\C/C=C\CCCCC)=O,NA,1-oleoyl-2-arachidonoyl-GPE (18:1/20:4)*,1-oleoyl-2-arachidonoyl-GPE (18:1/20:4)*,NA,HMDB0009069,NA,11.7169
+X1.oleoyl.2.docosahexaenoyl.GPE..18.1.22.6..,NA,0.269651579,Phosphatidylethanolamine (PE),O=C(CCCCCCC/C=C\CCCCCCCC)OC[C@]([H])(COP(OCCN)(O)=O)OC(CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CC)=O,NA,1-oleoyl-2-docosahexaenoyl-GPE (18:1/22:6)*,1-oleoyl-2-docosahexaenoyl-GPE (18:1/22:6)*,NA,HMDB0009078,NA,12.0491
+X1.oleoyl.GPC..18.1.,-0.445343112,NA,Lysophospholipid,O[C@H](COC(CCCCCCC/C=C\CCCCCCCC)=O)COP(OCC[N+](C)(C)C)([O-])=O,YAMUFBLWGFFICM-PTGWMXDIBX,1-oleoyl-GPC (18:1),1-oleoyl-GPC (18:1),19420-56-5,HMDB0002815,C03916,5.1358
+X1.oleoyl.GPG..18.1..,NA,0.142981135,Lysophospholipid,O[C@H](COC(CCCCCCC/C=C\CCCCCCCC)=O)COP(OCC(O)CO)(O)=O,NA,1-oleoyl-GPG (18:1)*,1-oleoyl-GPG (18:1)*,NA,HMDB0240602,NA,4.4148
+X1.palmitoleoyl.2.linolenoyl.GPC..16.1.18.3..,-0.202834893,NA,Phosphatidylcholine (PC),O=C(CCCCCCC/C=C\CCCCCC)OC[C@]([H])(COP(OCC[N+](C)(C)C)([O-])=O)OC(CCCCCCC/C=C\C/C=C\C/C=C\CC)=O,NA,1-palmitoleoyl-2-linolenoyl-GPC (16:1/18:3)*,1-palmitoleoyl-2-linolenoyl-GPC (16:1/18:3)*,NA,HMDB0008008,NA,10.496
+X1.palmitoleoyl.GPC..16.1..,-0.224786197,NA,Lysophospholipid,O=P(OCC[N+](C)(C)C)([O-])OCC(O)COC(CCCCCCC/C=C\CCCCCC)=O,LFUDDCMNKWEORN-KHPPLWFEBO,1-palmitoleoyl-GPC (16:1)*,1-palmitoleoyl-GPC* (16:1)*,NA,HMDB0010383,NA,4.3556
+X1.palmitoyl.2.arachidonoyl.GPE..16.0.20.4..,NA,0.291410299,Phosphatidylethanolamine (PE),O=C(CCCCCCCCCCCCCCC)OC[C@]([H])(COP(OCCN)(O)=O)OC(CCC/C=C\C/C=C\C/C=C\C/C=C\CCCCC)=O,DRIVXEVMDWCWLI-CAQMIEAIBF,1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*,1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*,NA,HMDB0005323,C05210,11.1607
+X1.palmitoyl.2.docosahexaenoyl.GPE..16.0.22.6..,0.217765585,0.222599908,Phosphatidylethanolamine (PE),O=C(CCCCCCCCCCCCCCC)OC[C@]([H])(COP(OCCN)(O)=O)OC(CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CC)=O,MPWUZHVZZKSTPV-MADBQMNMBW,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*,NA,HMDB0008946,NA,11.4929
+X1.palmitoyl.2.linoleoyl.GPE..16.0.18.2.,0.1866608,NA,Phosphatidylethanolamine (PE),O=C(CCCCCCC/C=C\C/C=C\CCCCC)O[C@@H](COP(OCCN)(O)=O)COC(CCCCCCCCCCCCCCC)=O,HBZNVZIRJWODIB-NHCUFCNUBC,1-palmitoyl-2-linoleoyl-GPE (16:0/18:2),1-palmitoyl-2-linoleoyl-GPE (16:0/18:2),NA,HMDB0005322,NA,10.8285
+X1.palmitoyl.2.linoleoyl.GPI..16.0.18.2.,0.168917651,NA,Phosphatidylinositol (PI),O=C(CCCCCCC/C=C\C/C=C\CCCCC)O[C@@H](COP(OC1C(O)C(O)C(O)C(O)C1O)(O)=O)COC(CCCCCCCCCCCCCCC)=O,BSNJSZUDOMPYIR-DMDPBSJXBZ,1-palmitoyl-2-linoleoyl-GPI (16:0/18:2),1-palmitoyl-2-linoleoyl-GPI (16:0/18:2),NA,HMDB0009784,NA,8.0565
+X1.palmitoyl.2.oleoyl.GPE..16.0.18.1.,0.355819316,NA,Phosphatidylethanolamine (PE),CCCCCCCC\C=C/CCCCCCCC(O[C@](COC(CCCCCCCCCCCCCCC)=O)(COP([O-])(OCC[N+]([H])([H])[H])=O)[H])=O,FHQVHHIBKUMWTI-OTMQOFQLBI,1-palmitoyl-2-oleoyl-GPE (16:0/18:1),1-palmitoyl-2-oleoyl-GPE (16:0/18:1),26662-94-2,HMDB0005320,NA,9.7037
+X1.palmitoyl.GPI..16.0.,NA,-0.212439412,Lysophospholipid,[H]C(C(O)(C(O)([C@](O)1[H])[H])[H])([C@@](OP(O)(OC[C@@]([H])(COC(CCCCCCCCCCCCCCC)=O)O)=O)([C@]1(O)[H])[H])O,NA,1-palmitoyl-GPI (16:0),1-palmitoyl-GPI* (16:0),NA,HMDB0061695,NA,1.6921
+X1.stearoyl.2.arachidonoyl.GPE..18.0.20.4.,NA,0.318674042,Phosphatidylethanolamine (PE),O=C(CCCCCCCCCCCCCCCCC)OC[C@]([H])(COP(OCCN)(O)=O)OC(CCC/C=C\C/C=C\C/C=C\C/C=C\CCCCC)=O,ANRKEHNWXKCXDB-BHFWLYLHBY,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4),1-stearoyl-2-arachidonoyl-GPE (18:0/20:4),NA,HMDB0009003,C05210,11.9409
+X1.stearoyl.2.docosahexaenoyl.GPE..18.0.22.6..,0.35677866,0.319412806,Phosphatidylethanolamine (PE),O=C(CCCCCCCCCCCCCCCCC)OC[C@]([H])(COP(OCCN)(O)=O)OC(CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CC)=O,XYYHNDVKALDFHQ-OXHZBIAZBI,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*,NA,HMDB0009012,NA,12.2731
+X1.stearoyl.2.oleoyl.GPE..18.0.18.1.,0.342980681,NA,Phosphatidylethanolamine (PE),O=C(CCCCCCC/C=C/CCCCCCCC)O[C@@H](COP(OCCN)(O)=O)COC(CCCCCCCCCCCCCCCCC)=O,NA,1-stearoyl-2-oleoyl-GPE (18:0/18:1),1-stearoyl-2-oleoyl-GPE (18:0/18:1),NA,HMDB0008993,NA,11.8327
+X1.stearoyl.GPC..18.0.,-0.410951754,NA,Lysophospholipid,O[C@H](COC(CCCCCCCCCCCCCCCCC)=O)COP(OCC[N+](C)(C)C)([O-])=O,IHNKQIMGVNPMTC-RUZDIDTEBJ,1-stearoyl-GPC (18:0),1-stearoyl-GPC (18:0),19420-57-6,HMDB0010384,NA,5.3598
+X1.stearoyl.GPI..18.0.,-0.223770708,-0.228802301,Lysophospholipid,[H]C(C(O)(C(O)([C@](O)1[H])[H])[H])([C@@](OP(O)(OC[C@@]([H])(COC(CCCCCCCCCCCCCCCCC)=O)O)=O)([C@]1(O)[H])[H])O,LXUGKKVCSTYZFK-DYLKWFMLBW,1-stearoyl-GPI (18:0),1-stearoyl-GPI (18:0),796963-93-4,HMDB0240261,NA,2.4723
+X10.undecenoate..11.1n1.,-0.208069747,NA,Medium Chain Fatty Acid,O=C(CCCCCCCCC=C)O[H],FRPZMMHWLSIFAZ-UHFFFAOYAJ,10-undecenoate (11:1n1),10-undecenoate (11:1n1),1333-28-4,HMDB0033724,C13910,3.3778
+X12.13.DiHOME,NA,-0.228744764,"Fatty Acid, Dihydroxy",CCCCCC(C(C/C=C\CCCCCCCC(O)=O)O)O,CQSLTKIXAJTQGA-FLIBITNWBI,"12,13-DiHOME","12,13-DiHOME",263399-35-5,HMDB0004705,C14829,4.0501
+X17alpha.hydroxypregnanolone.glucuronide,NA,0.165029322,Pregnenolone Steroids,O=C(C)[C@]1(O)[C@]2(C)C(CC1)C3C(CC2)[C@](CC[C@@H](OC4[C@H](O)[C@@H](O)[C@H](O)[C@@H]([C@@](O)=O)O4)C5)(C)[C@@]5([H])CC3,NA,17alpha-hydroxypregnanolone glucuronide,17alpha-hydroxypregnanolone glucuronide,NA,NA,NA,1.6266
+X2.3.dihydroxy.2.methylbutyrate,NA,0.207945627,"Leucine, Isoleucine and Valine Metabolism",OC(C)(C(O)=O)C(C)O,AOWPAWLEXIYETE-UHFFFAOYAH,"2,3-dihydroxy-2-methylbutyrate","2,3-dihydroxy-2-methylbutyrate",14868-24-7,HMDB0029576,NA,-0.7972
+X2.acrylamidoglycolic.acid,-0.182933756,NA,Chemical,OC(C(O)=O)N([H])C(C=C)=O,NEYTXADIGVEHQD-UHFFFAOYAU,2-acrylamidoglycolic acid,2-acrylamidoglycolic acid,6737-24-2,NA,NA,-1.3084
+X2.aminoheptanoate,0.35403675,NA,"Fatty Acid, Amino",OC(C(CCCCC)N([H])[H])=O,RDFMDVXONNIGBC-UHFFFAOYAG,2-aminoheptanoate,2-aminoheptanoate,1115-90-8,HMDB0094649,NA,0.9786
+X2.docosahexaenoylglycerol..22.6..,NA,-0.17862709,Monoacylglycerol,O=C(OC(CO)CO)CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CC,NHNGEAQTTQPSCX-KUBAVDMBBH,2-docosahexaenoylglycerol (22:6)*,2-docosahexaenoylglycerol (22:6)*,NA,HMDB0011557,NA,5.3607
+X2.hydroxy.3.methylvalerate,0.290914379,NA,"Leucine, Isoleucine and Valine Metabolism",O=C(C(C(CC)C)O)O,RILPIWOPNGRASR-UHFFFAOYAI,2-hydroxy-3-methylvalerate,2-hydroxy-3-methylvalerate,488-15-3,HMDB0000317,NA,0.478
+X2.hydroxy.4..methylthio.butanoic.acid,0.238221911,NA,"Methionine, Cysteine, SAM and Taurine Metabolism",CSCCC(O)C(O)=O,NA,2-hydroxy-4-(methylthio)butanoic acid,2-hydroxy-4-(methylthio)butanoic acid,583-91-5,HMDB0037115,NA,0.185
+X2.hydroxyadipate,NA,0.066523531,"Fatty Acid, Dicarboxylate",O=C(O)C(O)CCCC(O)=O,OTTXIFWBPRRYOG-UHFFFAOYAL,2-hydroxyadipate,2-hydroxyadipate,18294-85-4,HMDB0000321,C02360,-0.3132
+X2.hydroxyarachidate.,NA,0.170768351,"Fatty Acid, Monohydroxy",CCCCCCCCCCCCCCCCCCC(O)C(O)=O,CPLYLXYEVLGWFJ-UHFFFAOYAX,2-hydroxyarachidate*,2-hydroxyarachidate*,NA,NA,NA,6.0835
+X2.hydroxybehenate,0.32677838,NA,"Fatty Acid, Monohydroxy",CCCCCCCCCCCCCCCCCCCCC(O)C(O)=O,RPGJJWLCCOPDAZ-UHFFFAOYAL,2-hydroxybehenate,2-hydroxybehenate,NA,HMDB0061660,NA,6.8637
+X2.hydroxyheptanoate.,0.273422495,0.299561157,"Fatty Acid, Monohydroxy",OC(C(O)CCCCC)=O,RGMMREBHCYXQMA-UHFFFAOYAG,2-hydroxyheptanoate*,2-hydroxyheptanoate*,NA,NA,NA,1.0122
+X2.hydroxylaurate,0.168511173,NA,"Fatty Acid, Monohydroxy",OC(C(O)CCCCCCCCCC)=O,YDZIJQXINJLRLL-UHFFFAOYAT,2-hydroxylaurate,2-hydroxylaurate,2984-55-6,NA,NA,2.9627
+X2.hydroxyphenylacetate,NA,0.156865573,Phenylalanine Metabolism,OC(CC1=C(O)C=CC=C1)=O,CCVYRRGZDBSHFU-UHFFFAOYAL,2-hydroxyphenylacetate,2-hydroxyphenylacetate,614-75-5,HMDB0000669,C05852,1.0193
+X2.keto.3.deoxy.gluconate,0.376956746,NA,Food Component/Plant,OC[C@@H](O)[C@@H](O)CC(C(O)=O)=O,WPAMZTWLKIDIOP-WVZVXSGGBW,2-keto-3-deoxy-gluconate,2-keto-3-deoxy-gluconate,17510-99-5,HMDB0001353,C00204,-2.2557
+X2.methoxyhydroquinone.sulfate..1.,0.223659073,NA,Benzoate Metabolism,OC1=CC=C(OS(=O)(O)=O)C=C1OC,NA,2-methoxyhydroquinone sulfate (1),2-methoxyhydroquinone sulfate (1),NA,NA,NA,0.5824
+X2.methylserine,NA,0.080377022,"Glycine, Serine and Threonine Metabolism",OCC(N)(C)C(O)=O,CDUUKBXTEOFITR-UHFFFAOYAW,2-methylserine,2-methylserine,NA,NA,C02115,-1.2193
+X2.myristoylglycerol..14.0.,NA,-0.070027238,Monoacylglycerol,O=C(CCCCCCCCCCCCC)OC(CO)CO,TVIMZSOUQXNWHO-UHFFFAOYAT,2-myristoylglycerol (14:0),2-myristoylglycerol (14:0),27214-38-6,HMDB0011530,NA,3.5839
+X2.O.methylascorbic.acid,0.267598961,NA,Ascorbate and Aldarate Metabolism,OC1=C(OC)C(C(C(CO)O)O1)=O,RMHBODZVODTFAH-UHFFFAOYAP,2-O-methylascorbic acid,2-O-methylascorbic acid,17860-87-6,HMDB0240294,NA,-1.319
+X2.palmitoleoyl.GPC..16.1..,NA,-0.21053407,Lysophospholipid,OC[C@](OC(CCCCCCCC/C=C\CCCCC)=O)([H])COP(OCC[N+](C)(C)C)([O-])=O,GKXPPJQBVCKAGD-DJYGDJEFBY,2-palmitoleoyl-GPC (16:1)*,2-palmitoleoyl-GPC* (16:1)*,NA,HMDB10383,NA,4.3556
+X2.piperidinone,0.251325104,NA,Food Component/Plant,O=C1CCCCN1,XUWHAWMETYGRKB-UHFFFAOYAE,2-piperidinone,2-piperidinone,675-20-7,HMDB0011749,NA,0.2865
+X3.4.dihydroxybutyrate,NA,0.299067318,"Fatty Acid, Dihydroxy",O=C(CC(CO)O)O,NA,"3,4-dihydroxybutyrate","3,4-dihydroxybutyrate",51267-44-8,HMDB0000337,NA,-1.1857
+X3.amino.2.piperidone,NA,-0.188617542,Urea cycle; Arginine and Proline Metabolism,NC1CCCNC1=O,YCCMTCQQDULIFE-UHFFFAOYAX,3-amino-2-piperidone,3-amino-2-piperidone,1892-22-4,HMDB0000323,NA,-0.7763
+X3.aminoisobutyrate,-0.25232805,NA,"Pyrimidine Metabolism, Thymine containing",O=C(O)C(C)CN,QCHPKSFMDHPSNR-UHFFFAOYAN,3-aminoisobutyrate,3-aminoisobutyrate,"214139-20-5,10569-72-9",HMDB0002166,C05145,-0.3342
+X3.decenoylcarnitine,NA,0.142632406,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)",O=C(C/C([H])=C(CCCCCC)\[H])OC(CC([O-])=O)C[N+](C)(C)C,NA,3-decenoylcarnitine,3-decenoylcarnitine,NA,NA,NA,1.6611
+X3.hydroxy.3.methylglutarate,NA,0.252365335,Mevalonate Metabolism,CC(CC(O)=O)(CC(O)=O)O,NPOAOTPXWNWTSH-NUQVWONBAH,3-hydroxy-3-methylglutarate,3-hydroxy-3-methylglutarate,503-49-1,HMDB0000355,C03761,-0.3132
+X3.hydroxyadipate,NA,0.464986908,"Fatty Acid, Dicarboxylate",OC(CC(O)=O)CCC(O)=O,YVOMYDHIQVMMTA-UHFFFAOYAG,3-hydroxyadipate,3-hydroxyadipate,NA,HMDB0000345,NA,-0.3132
+X3.hydroxydecanoate,NA,0.344956688,"Fatty Acid, Monohydroxy",OC(CC(O)=O)CCCCCCC,FYSSBMZUBSBFJL-UHFFFAOYAJ,3-hydroxydecanoate,3-hydroxydecanoate,5561-87-5,HMDB0002203,NA,2.1825
+X3.hydroxydodecanedioate.,NA,0.357224094,"Fatty Acid, Dicarboxylate",O=C(O)CC(O)CCCCCCCCC(O)=O,FYVQCLGZFXHEGL-UHFFFAOYAV,3-hydroxydodecanedioate*,3-hydroxydodecanedioate*,34574-69-1,HMDB0000413,NA,2.0274
+X3.hydroxyhexanoate,NA,0.177329021,"Fatty Acid, Monohydroxy",CCCC(O)CC(O)=O,HPMGFDVTYHWBAG-UHFFFAOYAJ,3-hydroxyhexanoate,3-hydroxyhexanoate,10191-24-9,"HMDB0061652,HMDB0010718",NA,0.6221
+X3.hydroxyhexanoylcarnitine..1.,0.15879597,0.268630114,"Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)",C[N+](C)(C)CC(OC(CC(O)CCC)=O)CC([O-])=O,NA,3-hydroxyhexanoylcarnitine (1),3-hydroxyhexanoylcarnitine (1),NA,NA,NA,-0.7045
+X3.hydroxylaurate,NA,0.146635898,"Fatty Acid, Monohydroxy",OC(CC(CCCCCCCCC)O)=O,MUCMKTPAZLSKTL-UHFFFAOYAV,3-hydroxylaurate,3-hydroxylaurate,53941-38-1,HMDB0000387,NA,2.9627
+X3.hydroxyoctanoate,NA,0.430312101,"Fatty Acid, Monohydroxy",OC(CC(O)=O)CCCCC,NDPLAKGOSZHTPH-UHFFFAOYAI,3-hydroxyoctanoate,3-hydroxyoctanoate,88930-08-9,HMDB0001954,C20793,1.4023
+X3.hydroxysebacate,NA,0.366087421,"Fatty Acid, Monohydroxy",OC(CC(O)CCCCCCC(O)=O)=O,OQYZCCKCJQWHIE-UHFFFAOYAK,3-hydroxysebacate,3-hydroxysebacate,73141-46-5,HMDB0000350,NA,1.2472
+X3.methyl.2.oxovalerate,0.353157822,0.373207038,"Leucine, Isoleucine and Valine Metabolism",CCC(C)C(C(O)=O)=O,JVQYSWDUAOAHFM-UHFFFAOYAW,3-methyl-2-oxovalerate,3-methyl-2-oxovalerate,"51829-07-3,1460-34-0",HMDB0000491,"C03465,C06008,C00671",0.6862
+X3.methyladipate,-0.172760565,NA,"Fatty Acid, Dicarboxylate",O=C(O)CC(C)CCC(O)=O,SYEOWUNSTUDKGM-UHFFFAOYAW,3-methyladipate,3-methyladipate,03/01/3058,HMDB0000555,NA,0.962
+X3.methylxanthine,-0.152845987,NA,Xanthine Metabolism,O=C1N(C)C2=C(N=CN2)C(N1)=O,GMSNIKWWOQHZGF-UHFFFAOYAL,3-methylxanthine,3-methylxanthine,1076-22-8,HMDB0001886,C16357,-1.0501
+X4.acetamidobenzoate,NA,-0.215330592,Chemical,CC(NC1=CC=C(C(O)=O)C=C1)=O,QCXJEYYXVJIFCE-UHFFFAOYAT,4-acetamidobenzoate,4-acetamidobenzoate,556-08-1,NA,D03836,1.3432
+X4.acetylcatechol.sulfate..1.,NA,-0.169958614,Food Component/Plant,OC1=CC=C(C(C)=O)C=C1OS(=O)(O)=O,NA,4-acetylcatechol sulfate (1),4-acetylcatechol sulfate (1),NA,NA,NA,0.7764
+X4.acetylphenol.sulfate,NA,-0.21249581,Benzoate Metabolism,O=S(OC1=CC=C(C(C)=O)C=C1)(O)=O,HOFGLAYWQRGTKC-UHFFFAOYAS,4-acetylphenol sulfate,4-acetylphenyl sulfate,NA,NA,NA,1.0708
+X4.HDoHE,NA,-0.095984139,Docosanoid,OC(CCC(O)=O)/C=C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CC,IFRKCNPQVIJFAQ-PQVBWYSWBE,4-HDoHE,4-HDoHE,90906-40-4,NA,NA,5.5197
+X4.hydroxyphenylacetate,NA,0.290312453,Phenylalanine Metabolism,OC(CC1=CC=C(C=C1)O)=O,XQXPVVBIMDBYFF-REWHXWOFAL,4-hydroxyphenylacetate,4-hydroxyphenylacetate,156-38-7,HMDB0000020,C00642,1.0193
+X4.hydroxyphenylacetoylcarnitine,0.177930096,NA,Tyrosine Metabolism,[O-]C(CC(OC(CC1=CC=C(C=C1)O)=O)C[N+](C)(C)C)=O,NA,4-hydroxyphenylacetoylcarnitine,4-hydroxyphenylacetoylcarnitine,NA,NA,NA,-0.3073
+X4.methoxyphenol.sulfate,NA,-0.189894431,Tyrosine Metabolism,COC1=CC=C(OS(=O)(O)=O)C=C1,NA,4-methoxyphenol sulfate,4-methoxyphenol sulfate,3233-60-1,NA,NA,0.8768
+X4.methyl.2.oxopentanoate,0.291017151,NA,"Leucine, Isoleucine and Valine Metabolism",CC(C)CC(C(O)=O)=O,BKAJNAXTPSGJCU-UHFFFAOYAG,4-methyl-2-oxopentanoate,4-methyl-2-oxopentanoate,816-66-0,HMDB0000695,C00233,0.6862
+X5.dodecenoate..12.1n7.,-0.185362884,-0.210304743,Medium Chain Fatty Acid,CCCCCC\C=C/CCCC(O)=O,IJBFSOLHRKELLR-FPLPWBNLBG,5-dodecenoate (12:1n7),5-dodecenoate (12:1n7),2430-94-6,HMDB0000529,NA,3.7679
+X5.dodecenoylcarnitine..C12.1.,-0.188487768,NA,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)",CCCCCC/C=C\CCCC(O[C@@H](C[N+](C)(C)C)CC([O-])=O)=O,NA,5-dodecenoylcarnitine (C12:1),5-dodecenoylcarnitine (C12:1),NA,HMDB13326,NA,2.4413
+X5.HETE,0.164863001,NA,Eicosanoid,OC(CCCC(O)/C=C/C=C\C/C=C\C/C=C\CCCCC)=O,KGIJOOYOSFUGPC-XTDASVJIBK,5-HETE,5-HETE,73307-52-5,HMDB0011134,C04805,5.1875
+X5.hydroxy.2.methylpyridine.sulfate,NA,-0.081044496,Chemical,CC1=NC=C(OS(=O)(O)=O)C=C1,NA,5-hydroxy-2-methylpyridine sulfate,5-hydroxy-2-methylpyridine sulfate,NA,NA,NA,0.57162
+X5.hydroxyhexanoate,NA,0.126288192,"Fatty Acid, Monohydroxy",CC(O)CCCC(O)=O,YDCRNMJQROAWFT-UHFFFAOYAI,5-hydroxyhexanoate,5-hydroxyhexanoate,44843-89-2,"HMDB0000409,HMDB0000525",NA,0.6221
+X5.hydroxymethyl.2.furoylcarnitine.,NA,0.164388405,Food Component/Plant,OCC1=CC=C(C(OC(CC([O-])=O)C[N+](C)(C)C)=O)O1,NA,5-hydroxymethyl-2-furoylcarnitine*,5-hydroxymethyl-2-furoylcarnitine*,NA,NA,NA,-0.8565
+X5.methylthioadenosine..MTA.,0.228374529,NA,Polyamine Metabolism,NC1=NC=NC2=C1N=CN2[C@H]3[C@H](O)[C@H](O)[C@@H](CSC)O3,WUUGFSXJNOTRMR-IOSLPCCCBD,5-methylthioadenosine (MTA),5-methylthioadenosine (MTA),2457-80-9,HMDB0001173,C00170,-0.6093
+X5alpha.androstan.3alpha.17beta.diol.monosulfate..2.,0.164017591,0.185032062,Androgenic Steroids,C[C@@]12[C@](CCC3C2CC[C@@]4(C)C3CC[C@@H]4O)([H])C[C@H](OS(=O)(O)=O)CC1,NA,"5alpha-androstan-3alpha,17beta-diol monosulfate (2)","5alpha-androstan-3alpha,17beta-diol monosulfate (2)",NA,NA,NA,3.578
+X5alpha.pregnan.3beta.20alpha.diol.monosulfate..2.,-0.18205962,NA,Progestin Steroids,C[C@@]12[C@](CCC3C2CC[C@@]4(C)C3CCC4[C@](C)([H])O)([H])C[C@@H](OS(=O)(O)=O)CC1,NA,"5alpha-pregnan-3beta,20alpha-diol monosulfate (2)","5alpha-pregnan-3beta,20alpha-diol monosulfate (2)",NA,NA,NA,4.2141
+X6.oxopiperidine.2.carboxylate,0.238736084,NA,Lysine Metabolism,OC(C1CCCC(N1)=O)=O,FZXCPFJMYOQZCA-UHFFFAOYAC,6-oxopiperidine-2-carboxylate,6-oxopiperidine-2-carboxylate,34622-39-4,HMDB0061705,NA,-0.2603
+X7.ketodeoxycholate,0.177516329,NA,Secondary Bile Acid Metabolism,[H][C@]1([C@]2(C)[C@](CC1)([H])[C@]3([H])C(C[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])C[C@@H]2O)=O)[C@H](C)CCC(O)=O,RHCPKKNRWFXMAT-RRWYKFPJBR,7-ketodeoxycholate,7-ketodeoxycholate,911-40-0,HMDB0000391,NA,3.6569
+X7.methylxanthine,-0.162381213,NA,Xanthine Metabolism,OC1=C(N2C)C(N=C2)=NC(O)=N1,PFWLFWPASULGAN-UHFFFAOYAY,7-methylxanthine,7-methylxanthine,552-62-5,HMDB0001991,C16353,-0.2255
+xanthine,0.267449252,NA,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",O=C(N1)C(N=CN2)=C2NC1=O,LRFVTYWOQMYALW-UHFFFAOYAT,xanthine,xanthine,69-89-6,HMDB0000292,C00385,-1.0605
+ximenoylcarnitine..C26.1..,-0.165497143,NA,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)",O=C(OC(C[N+](C)(C)C)CC([O-])=O)CCC/C=C/CCCCCCCCCCCCCCCCCCCC,NA,ximenoylcarnitine (C26:1)*,ximenoylcarnitine (C26:1)*,NA,NA,NA,7.9027

@@ -1,0 +1,9 @@
+
+====================================
+CPU Time used: 00:00:04
+CPU Percent: 27%
+Memory usage: 278736kb
+Approx Power usage: 0.0
+Walltime usage: 00:00:51
+
+====================================
